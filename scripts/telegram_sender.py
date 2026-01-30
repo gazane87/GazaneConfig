@@ -4,7 +4,7 @@ import logging
 import re
 import time
 from datetime import datetime
-from typing import List, Dict
+from typing import Dict
 import os
 import urllib.parse
 
@@ -34,6 +34,82 @@ def init_bot(token: str) -> telebot.TeleBot | None:
     except Exception as e:
         logging.error(f"Failed to initialize Telegram bot: {e}")
         return None
+
+
+def clear_previous_messages(bot: telebot.TeleBot, chat_id: str, limit: int = 10):
+    """پاک کردن آخرین پیام‌های خود بات برای جلوگیری از اسپم"""
+    try:
+        updates = bot.get_chat_history(chat_id, limit=limit)
+        for msg in updates:
+            if msg.from_user and msg.from_user.is_bot:
+                try:
+                    bot.delete_message(chat_id, msg.message_id)
+                except Exception:
+                    continue
+    except Exception as e:
+        logging.warning(f"Could not clear previous messages: {e}")
+
+
+def send_summary_message(bot: telebot.TeleBot, chat_id: str, counts: Dict[str, int]):
+    """ارسال خلاصه کانفیگ‌ها و لینک MIX"""
+    base_raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPOSITORY}/main"
+    mix_url = f"{base_raw_url}/mix/sub.html"
+
+    total_configs = sum(counts.values())
+    iran_tz = pytz.timezone("Asia/Tehran")
+    time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
+
+    message = f"📊 **خلاصه ساب‌لینک‌های V2rayExtractor** 📊\n\n"
+    message += f"تعداد کل کانفیگ‌های سالم: **{total_configs}**\n\n"
+    message += f"🔗 [لینک MIX (ALL کانفیگ‌ها)]({mix_url})\n\n"
+    message += f"*آخرین بروزرسانی: {time_ir}*"
+
+    # پاک کردن پیام‌های قبلی
+    clear_previous_messages(bot, chat_id)
+
+    try:
+        bot.send_message(
+            chat_id=chat_id,
+            text=message,
+            parse_mode='Markdown',
+            disable_web_page_preview=False,
+            reply_markup=MARKUP
+        )
+        logging.info("Summary message sent successfully.")
+    except Exception as e:
+        logging.error(f"Failed to send summary message: {e}")
+
+
+def send_mix_file(bot: telebot.TeleBot, chat_id: str):
+    """ارسال فایل mix/sub.html"""
+    mix_file_path = "mix/sub.html"
+    if not os.path.isfile(mix_file_path):
+        logging.warning("mix/sub.html not found, skipping file upload.")
+        return
+
+    iran_tz = pytz.timezone("Asia/Tehran")
+    time_ir = datetime.now(iran_tz).strftime("%Y-%m-%d %H:%M")
+
+    caption = (
+        "📦 فایل کامل کانفیگ‌ها (MIX)\n\n"
+        f"🕒 آخرین بروزرسانی: {time_ir}\n"
+        f"🔗 GitHub: {GITHUB_REPO_URL}"
+    )
+
+    # پاک کردن پیام‌های قبلی قبل از آپلود فایل
+    clear_previous_messages(bot, chat_id)
+
+    try:
+        with open(mix_file_path, "rb") as f:
+            bot.send_document(
+                chat_id=chat_id,
+                document=f,
+                caption=caption,
+                reply_markup=MARKUP
+            )
+        logging.info("mix/sub.html uploaded successfully to Telegram.")
+    except Exception as e:
+        logging.error(f"Failed to upload mix file: {e}")
 def full_unquote(s: str) -> str:
 
     if '%' not in s:
@@ -173,3 +249,4 @@ def send_all_grouped_configs(bot: telebot.TeleBot, channel_id: str, grouped_conf
                 parse_mode='Markdown',
                 disable_web_page_preview=True
             )
+
