@@ -45,7 +45,12 @@ TELEGRAM_URLS = [
     "https://t.me/s/outlinevpnofficial", "https://t.me/s/v2rayngvpn", "https://t.me/s/V2raNG_DA",
     "https://t.me/s/V2rayNg_madam", "https://t.me/s/v2boxxv2rayng", "https://t.me/s/configshub2",
     "https://t.me/s/v2ray_configs_pool", "https://t.me/s/hope_net", "https://t.me/s/everydayvpn",
-    "https://t.me/s/v2nodes", "https://t.me/s/shadowproxy66", "https://t.me/s/free_nettm"
+    "https://t.me/s/v2nodes", "https://t.me/s/shadowproxy66", "https://t.me/s/free_nettm",
+    "https://t.me/s/zaltivpn", "https://t.me/s/V2ry_Proxy", "https://t.me/s/mohafezisgahsalavati",
+    "https://t.me/s/sorenab2", "https://t.me/s/Oreyzon", "https://t.me/s/arisping",
+    "https://t.me/s/outlineOpenKey", "https://t.me/s/free1ss", "https://t.me/s/shadowsockskeys",
+    "https://t.me/s/h110vpn", "https://t.me/s/openkeysfree"
+    
 ]
 
 SEND_TO_TELEGRAM = os.getenv('SEND_TO_TELEGRAM', 'false').lower() == 'true'
@@ -54,7 +59,7 @@ TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
-def full_unquote(s: str) -> str:
+def "full_unquote(s: str) -> str:
 
     if '%' not in s:
         return s
@@ -335,4 +340,5 @@ def main():
 
     logging.info("--- V2Ray Extractor finished successfully! ---")
 if __name__ == "__main__":
+
     main()
