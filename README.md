@@ -5,7 +5,7 @@
 
 ### 🔹 **mix**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/mix/sub.html
 ```
 
 ---
@@ -14,35 +14,35 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/m
 
 ### 🔹 **vless**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/vless.html
 ```
 
 ---
 
 ### 🔹 **vmess**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/vmess.html
 ```
 
 ---
 
 ### 🔹 **trojan**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/trojan.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/trojan.html
 ```
 
 ---
 
 ### 🔹 **ss**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/ss.html
 ```
 
 ---
 
 ### 🔹 **hy2**:
 ```bash
-https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html
+https://raw.githubusercontent.com/gazane87/GazaneConfig/refs/heads/main/hy2.html
 ```
 
 
@@ -50,6 +50,6 @@ https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/h
 ## 🌍 **در این پیج می‌تونی کانفیگ‌ها رو بر اساس منطقه مشاهده کنی:**
 
 
-https://arshiacomplus.github.io/V2rayExtractor-page/
+https://github.com/gazane87/GazaneConfig/tree/01004f60893cbe5a931eb18a4a6403c2962750b3/loc
 
 ---
