@@ -59,7 +59,7 @@ TELEGRAM_CHAT_ID = os.getenv('TELEGRAM_CHAT_ID')
 TELEGRAM_CHANNEL_ID = os.getenv('TELEGRAM_CHANNEL_ID')
 SUB_CHECKER_DIR = Path("sub-checker")
 
-def "full_unquote(s: str) -> str:
+def full_unquote(s: str) -> str:
 
     if '%' not in s:
         return s
@@ -342,3 +342,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
