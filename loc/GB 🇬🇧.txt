@@ -1,2 +1,1 @@
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?allowInsecure=1&encryption=none&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-hy2://b99a0551-c00f-4508-86a8-67388a0710c0@uk1.jueduibupao.top:42958/?insecure=1&sni=uk1.jueduibupao.top#%3E%3E%40oneclickvpnkeys%3A%3AGB
