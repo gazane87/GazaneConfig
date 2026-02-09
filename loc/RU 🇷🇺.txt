@@ -1,0 +1,1 @@
+vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@ru2.ultima.foundation:4443/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ARU
