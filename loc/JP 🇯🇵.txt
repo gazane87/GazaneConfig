@@ -1,1 +1,1 @@
-vless://69905933-1b12-24fd-4ded-568ee4322895@8.209.202.241:443?security=tls&type=ws&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719&host=a926adb5.lfree.ccwu.cc&sni=a926adb5.lfree.ccwu.cc#%3E%3E%40sorenab2%3A%3AJP
+ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#%3E%3E%40shadowsockskeys%3A%3AJP
