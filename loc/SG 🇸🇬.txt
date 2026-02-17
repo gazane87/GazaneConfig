@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#%3E%3E%40prrofile_purple%3A%3ASG
-vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3ASG
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@xiangtianwennetddd.shop:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.xbox.com&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid=#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://e8db8a07-9264-4072-8637-8118ec39d682@23.185.0.0:80?encryption=none&type=xhttp&mode=auto&host=9ow30rfd9jhwf9j.global.ssl.fastly.net&path=/&security=none#%3E%3E%40Oreyzon%3A%3ASG
