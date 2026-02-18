@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#%3E%3E%40prrofile_purple%3A%3ASG
+vless://7db2a70a-8382-4fb4-9bf3-69e83eed8963@5.223.19.245:2098/?type=tcp&encryption=none&path=%2F&host=gratka.pl&headerType=http&security=none#%3E%3E%40Oreyzon%3A%3ASG
 vless://e8db8a07-9264-4072-8637-8118ec39d682@23.185.0.0:80?encryption=none&type=xhttp&mode=auto&host=9ow30rfd9jhwf9j.global.ssl.fastly.net&path=/&security=none#%3E%3E%40Oreyzon%3A%3ASG
