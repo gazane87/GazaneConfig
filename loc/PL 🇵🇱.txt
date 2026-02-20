@@ -1,1 +1,2 @@
-trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%3E%3E%40outline_vpn%3A%3APL
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%3E%3E%40FreakConfig%3A%3APL
+vless://e86870a5-41f2-4b45-b487-795b8c1a33d4@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#%3E%3E%40flyv2ray%3A%3APL
