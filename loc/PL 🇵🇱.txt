@@ -1,3 +1,5 @@
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40outline_vpn%3A%3APL
 vless://c40601cb-64e9-4f16-91c6-e8cdbaf100af@193.57.137.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=wikimedia.org&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.2.126:443?encryption=none&fp=chrome&security=tls&sni=plcdn19.suio.me&type=tcp#%3E%3E%40v2nodes%3A%3APL
+vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@144.31.2.20:443?encryption=none&fp=chrome&security=tls&sni=plcdn18.suio.me&type=tcp#%3E%3E%40v2nodes%3A%3APL
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@plcdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn19.suio.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
