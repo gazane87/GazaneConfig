@@ -2,6 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U=@185.5.38.111:55988#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%3E%3E%40V2rayNG3%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@104.21.9.88:2083?path=/vlessws&security=tls&encryption=none&insecure=0&host=bouquetberlin.org&type=ws&allowInsecure=0#%3E%3E%40configshub2%3A%3AFI
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@104.21.9.88:8443?encryption=none&security=tls&sni=bouquetberlin.org&allowInsecure=1&type=ws&host=bouquetberlin.org&path=%2Fvlessws#%3E%3E%40vmess_iran%3A%3AFI
-vless://472b07d2-31e4-41ab-ae47-48914d9b7900@45.130.125.160:443?path=%2FNet3rffws&security=tls&encryption=none&host=fi.unoix.io&fp=chrome&type=ws&sni=fi.unoix.io#%3E%3E%40V2ry_Proxy%3A%3AFI
+vless://7702ab8a-29ed-4a27-b3c7-4419d20e51e2@geliyoommm.global.ssl.fastly.net:443?encryption=none&security=tls&sni=geliyoommm.global.ssl.fastly.net&fp=firefox&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=geliyoommm.global.ssl.fastly.net&path=%2Fsite#%3E%3E%40arisping%3A%3AFI
