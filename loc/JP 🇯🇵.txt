@@ -1,3 +1,4 @@
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.231.103:400?sni=www.nintendogames.net#%3E%3E%40configshub2%3A%3AJP
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%3E%3E%40free1ss%3A%3AJP
 vless://00000000-0000-4000-8000-000000000000@202.84.53.85:20755/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://00000000-0000-4000-8000-000000000000@8.209.220.50:21273/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AJP
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@132.145.127.203:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram#%3E%3E%40v2ray_configs_pool%3A%3AJP
