@@ -1,6 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MmQyYjQ3MTgxYTMyZGU3@154.26.132.38:16922#%3E%3E%40free1ss%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NjRhNGQ4YzFjNzZlYjUw@194.233.73.51:14453#%3E%3E%40free1ss%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.247.64.176:990#%3E%3E%40OutlineVpnOfficial%3A%3ASG
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#%3E%3E%40OutlineVpnOfficial%3A%3ASG
 vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://4f4a8022-0a8e-4f55-9883-777b6830802e@a.monohob.eu.org:443/?type=ws&encryption=none&flow=&host=a.monohob.eu.org&path=%2Fvless&security=tls&sni=a.monohob.eu.org&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
 vless://65e542e0-0690-4787-b7e3-a4706013097d@vps.jentago.web.id:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
