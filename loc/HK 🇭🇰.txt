@@ -1,2 +1,1 @@
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?allowInsecure=0&sni=www.nintendogames.net#%3E%3E%40v2nodes%3A%3AHK
 vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201#%3E%3E%40free1ss%3A%3AHK
