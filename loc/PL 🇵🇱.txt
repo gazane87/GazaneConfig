@@ -1,2 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3E%40free1ss%3A%3APL
-vless://ceb9feae-27a3-4be6-8e68-5e4bc277f46c@151.101.193.194:80?mode=auto&path=%2FTignaliSWithYou&security=&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3APL
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
