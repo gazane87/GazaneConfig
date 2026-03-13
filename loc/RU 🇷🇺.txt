@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVTN0VlR3d2ZMcXU5MEVCQTFxV0pS@45.151.62.46:49733/?outline=1#%3E%3E%40h110vpn%3A%3ARU
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#%3E%3E%40outline_vpn%3A%3ARU
