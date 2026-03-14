@@ -1,12 +1,11 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3E%3E%40free1ss%3A%3APL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ@144.31.130.129:9443#%3E%3E%40oneclickvpnkeys%3A%3APL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ@144.31.130.99:9443#%3E%3E%40oneclickvpnkeys%3A%3APL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMVIzaEpFV2VRSkdKTDQyU2FZeTIyQ0MyMXVGdF8weQ==@144.31.130.65:9443#%3E%3E%40free1ss%3A%3APL
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
 trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://50a3c522-5f31-4879-9d33-6690f335f0a8@146.185.242.246:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=%2F#%3E%3E%40configshub2%3A%3APL
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?allowInsecure=1&encryption=none&security=tls&sni=alcdn1.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.2.61:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn17.suio.me:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=plcdn17.suio.me#%3E%3E%40prrofile_purple%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://7c6fcd29-88fb-463a-b24e-bb48b0479863@146.185.242.246:8448?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Ox4BT0R5103EpplP2y6TIVv0VC-xBR2-YT6EJ4YmkUw&spx=/#%3E%3E%40v2nodes%3A%3APL
-vless://a68c90a4-a560-489a-ab4b-d918e78e9dee@92.62.251.205:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=github.com&fp=chrome&pbk=YH_QnUEGzMHf8RjEDh5bRXocz7gq_QdrZWysD2yF_i8#%3E%3E%40v2nodes%3A%3APL
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn17.suio.me:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=plcdn17.suio.me#%3E%3E%40prrofile_purple%3A%3APL
+vless://a68c90a4-a560-489a-ab4b-d918e78e9dee@92.62.251.205:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YH_QnUEGzMHf8RjEDh5bRXocz7gq_QdrZWysD2yF_i8&security=reality&sni=github.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
