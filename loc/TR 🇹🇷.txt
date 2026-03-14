@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#%3E%3E%40vmess_iran%3A%3ATR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085#%3E%3E%40shadowsockskeys%3A%3ATR
-vless://f10d42ee-fa66-42c4-bfd5-b3297c8be760@77.83.245.135:34205?encryption=none&security=none&type=tcp#%3E%3E%40v2nodes%3A%3ATR
