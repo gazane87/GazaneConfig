@@ -1,1 +1,0 @@
-vless://d46ad20a-4454-4da7-8f9c-87f9152bedee@63.141.128.188:443?&security=tls&fp=chrome&sni=d2-jp2.djwstlsweb.top&type=ws&headerType=none&host=d2-jp2.djwstlsweb.top&path=/djjc/jp2#%3E%3E%40v2nodes%3A%3AJP
