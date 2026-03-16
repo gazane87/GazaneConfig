@@ -1,0 +1,1 @@
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%3E%3E%40configshub2%3A%3AJP
