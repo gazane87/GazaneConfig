@@ -4,7 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#%3
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%3E%3E%40vmess_vless_v2rayng%3A%3APL
 trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.20.208.121:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://humanity@188.114.96.3:443?allowInsecure=1&alpn=h2%252Chttp%252F1.1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.2.61:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://7478ff88-1354-4143-96ce-6c8059273ef0@144.31.1.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.amd.com&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI#%3E%3E%40configshub2%3A%3APL
+vless://bea7a5db-bb02-4bcd-bece-62832eb1bc94@144.31.3.55:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.vk.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
