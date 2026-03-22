@@ -6,6 +6,5 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.cre
 trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@188.114.96.3:443?allowInsecure=1&alpn=h2%252Chttp%252F1.1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.2.61:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn23.suio.me:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn23.suio.me&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.130.37:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn12.melodramaonline.net&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.136.126.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&fp=chrome&security=reality&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=#%3E%3E%40oneclickvpnkeys%3A%3APL
