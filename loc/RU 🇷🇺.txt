@@ -1,4 +1,0 @@
-vless://5ed71633-f82e-4def-b936-3283d20f321e@ru-modx.nodexphere.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lDbTuU4-pEAkxizbdrurcjz3eXq0AgECd0hEh0sL0zM&security=reality&sni=ru-modx.nodexphere.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://bfec5de6-f8ee-4f39-ae50-47d9c92899a4@188.225.10.222:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&security=reality&sni=goodcardboard.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://bfec5de6-f8ee-4f39-ae50-47d9c92899a4@188.225.77.109:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&security=reality&sni=goodcardboard.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://bfec5de6-f8ee-4f39-ae50-47d9c92899a4@188.225.43.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&security=reality&sni=goodcardboard.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
