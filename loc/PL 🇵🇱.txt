@@ -1,2 +1,1 @@
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
-vless://2491c11c-b958-4553-96f7-1aaa7cad8320@178.215.239.245:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
