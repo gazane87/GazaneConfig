@@ -1,1 +1,1 @@
-vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@104.16.80.73:8443?path=%2F&security=tls&encryption=none&insecure=0&host=superconducting.turboo-server.space&type=ws&allowInsecure=0&sni=superconducting.turboo-server.space#%3E%3E%40vmessorg%3A%3ACH
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@45.15.167.17:443?allowInsecure=1&encryption=none&host=2-eox.pages.dev&security=tls&sni=2-eox.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH
