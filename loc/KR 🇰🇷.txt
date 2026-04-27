@@ -1,4 +1,7 @@
 ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.157:40120#%3E%3E%40shadowsockskeys%3A%3AKR
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%3E%3E%40shadowsockskeys%3A%3AKR
-vless://26524cce-d514-4014-a426-365fb266a14d@222.106.183.207:12300?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#%3E%3E%40openkeysfree%3A%3AKR
+trojan://1234567890@121.175.77.73:10443?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40v2ray_configs_pool%3A%3AKR
+trojan://1234567890@118.39.2.62:20005?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40configshub2%3A%3AKR
+trojan://1234567890@220.124.181.77:18081?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40v2ray_configs_pool%3A%3AKR
+trojan://1234567890@211.194.210.183:30047?security=tls&sni=kfm-bn0.pages.dev&insecure=1&allowInsecure=1&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40v2ray_configs_pool%3A%3AKR
 vless://26524cce-d514-4014-a426-365fb266a14d@218.155.125.99:10001?headerType=none&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws#%3E%3E%40openkeysfree%3A%3AKR
