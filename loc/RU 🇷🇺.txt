@@ -1,4 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#%3E%3E%40shadowsockskeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
