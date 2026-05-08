@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206NjNkN2MxNzUwNmQxZjQ4Yg@203.32.26.24:60981#%3E%3E%40free1ss%3A%3AKR
 vless://4e7bd311-d91e-4a85-aa08-121313cf50d9@seoul1.ap221.com:443?sni=seoul.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AKR
