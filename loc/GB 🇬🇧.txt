@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%3E%3E%40configshub2%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@89.185.84.34:31348#%3E%3E%40shadowsockskeys%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@89.185.84.34:31348#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@87.120.219.192:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://6d49fae1-374d-313e-b360-1227b0ea8dea@s643.ccgfw.top:443?security=tls&encryption=none&host=s643.ccgfw.top&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=7190s643.ccgfw.top#%3E%3E%40V2ry_Proxy%3A%3AGB
