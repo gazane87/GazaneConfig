@@ -1,1 +1,2 @@
 vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.18.120.34:8443?path=%2F&security=tls&encryption=none&insecure=0&host=superconducting.turboo-server.space&type=ws&allowInsecure=0&sni=superconducting.turboo-server.space#%3E%3E%40configV2rayNG%3A%3ACH
+vless://58fbbc47-237d-4bc2-a8c3-6db623585a1b@104.19.229.21:2095?encryption=none&host=Kingdom.turbooo-server.com&path=%2Fed%3D2560&security=none&type=ws#%3E%3E%40configshub2%3A%3ACH
