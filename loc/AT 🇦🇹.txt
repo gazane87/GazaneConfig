@@ -1,1 +1,1 @@
-vless://5610a52c-48e0-4e8c-9230-fb302b04d02e@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%3E%3E%40configshub2%3A%3AAT
+vless://58f2d0b3-71c1-4b25-a723-155ec1e13725@srv154.towersflowerss.com:64534?type=ws&path=/#%3E%3E%40v2nodes%3A%3AAT

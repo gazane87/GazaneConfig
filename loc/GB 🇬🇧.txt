@@ -1,2 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%3E%3E%40configshub2%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#%3E%3E%40configV2rayNG%3A%3AGB
+vless://26524cce-d514-4014-a426-365fb266a14d@188.166.171.1:20202?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#%3E%3E%40ShadowsocksM%3A%3AGB
+vless://26524cce-d514-4014-a426-365fb266a14d@209.97.134.215:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#%3E%3E%40ShadowsocksM%3A%3AGB
+vless://26524cce-d514-4014-a426-365fb266a14d@134.209.183.227:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#%3E%3E%40ShadowsocksM%3A%3AGB
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%3E%3E%40configshub2%3A%3AGB
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
