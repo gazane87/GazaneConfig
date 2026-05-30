@@ -1,0 +1,1 @@
+vless://a05728da-a365-4f91-91dc-84c67c082bea@cafe.rezynox.tr:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=&path=%2Fstream&security=none&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ATR
