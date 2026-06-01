@@ -1,2 +1,2 @@
+trojan://humanity@43.169.18.179:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40v2ray_configs_pool%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://f3368578-8389-458d-9aee-08dc350c5230@mzone.pl.3cloudhost.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&security=reality&sni=mzone.pl.3cloudhost.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
