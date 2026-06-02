@@ -1,9 +1,11 @@
-trojan://humanity@8.6.112.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40v2ray_configs_pool%3A%3AFR
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OU5RUkZnN1BjeWJrbDlGckR4cWo1@193.17.57.155:443#%3E%3E%40v2nodes%3A%3AFR
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40freeland8%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%3E%3E%40v2rayng_fast%3A%3AFR
 vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?encryption=none&security=none&type=xhttp&host=InternetAzadRobot31dx253.global.ssl.fastly.net&path=%2F&mode=auto#%3E%3E%40configshub2%3A%3AFR
+vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%3E%3E%40configshub2%3A%3AFR
 vless://InternetAzadRobot@151.101.129.164:80?type=xhttp&encryption=none&path=%2FTignal&host=tignaltofansv4.global.ssl.fastly.net&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=none#%3E%3E%40v2rayngvpn%3A%3AFR
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://e277ac9b-3225-4381-a9fb-3585419f7142@108.162.195.193:443?encryption=none&fp=chrome&host=35cdnws.frnstatic.info&path=%2F35cdnws&security=tls&sni=35cdnws.frnstatic.info&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.118:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-fr-th.ray-balance.space:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR

@@ -1,0 +1,1 @@
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h2%2Chttp%2F1.1&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#%3E%3E%40configshub2%3A%3ATR
