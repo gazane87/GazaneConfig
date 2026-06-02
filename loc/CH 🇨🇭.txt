@@ -1,1 +1,0 @@
-vless://b51ecb4d-40f5-4a01-9d6b-d7c5e3878150@188.114.97.6:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=sabrina.lezzatcore.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sabrina.lezzatcore.ir#%3E%3E%40sorenab2%3A%3ACH
