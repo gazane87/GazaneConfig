@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5V2lQNHV4ek1pOVQ0ZXIy@20.164.210.27:443#%3E%3E%40v2rayngvpn%3A%3AZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbDZzNXdQUVh6VzJ6QUxI@20.164.211.148:443#%3E%3E%40v2rayngvpn%3A%3AZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcEdaelk4aE5kRk81R1hj@20.164.211.148:443#%3E%3E%40v2rayngvpn%3A%3AZA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzTFF6OGpPVXRiRVhWSjFx@20.164.211.148:443#%3E%3E%40v2rayngvpn%3A%3AZA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#%3E%3E%40prrofile_purple%3A%3AZA
+vless://2309d24d-3ad9-48b6-8bd8-e50cfabde935@151.101.109.223:443?encryption=none&type=xhttp&mode=auto&host=Marosirisshop.global.ssl.fastly.net&path=/main-kh-out-1&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2,http/1.1#%3E%3E%40v2rayng_fast%3A%3AZA
