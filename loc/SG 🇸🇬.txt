@@ -1,2 +1,1 @@
-ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#%3E%3E%40free1ss%3A%3ASG
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@159.89.194.243:22539?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=node1.nanonet.host&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=yazhou10.dynu.net#%3E%3E%40v2ray_configs_pool%3A%3ASG
