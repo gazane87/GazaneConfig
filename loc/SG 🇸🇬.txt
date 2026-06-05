@@ -1,1 +1,0 @@
-trojan://gcuCpQfaiVeDBdWG@jpbgp.netvigor.cc:19128?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=yazhou10.dynu.net#%3E%3E%40v2ray_configs_pool%3A%3ASG
