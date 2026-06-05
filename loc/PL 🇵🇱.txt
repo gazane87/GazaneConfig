@@ -1,5 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#%3E%3E%40free1ss%3A%3APL
-vless://48e99a9a-77f9-4b78-be9d-acd4157f0bed@i.mmdgk.click:8443?flow=&type=ws&host=i.mmdgk.click&path=/&security=tls&sni=i.mmdgk.click&alpn=http/1.1&fp=chrome&allowInsecure=0&echfq=none#%3E%3E%40sorenab2%3A%3APL
+vless://02cd5551-37c2-4a8b-ae3c-09110ae2ea3b@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40configV2rayNG%3A%3APL
+vless://07548ad1-b94e-44ee-90a1-3e6d879126db@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40mohafezisgahsalavati%3A%3APL
+vless://7065f4e7-d265-4db6-829a-5d6f51b0c0a9@54.38.136.47:80?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?security=reality&encryption=none&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=front.xwhiteness.site#%3E%3E%40v2rayngvpn%3A%3APL
+vless://ef15cf8d-db5c-49b6-b868-2f980baf54b7@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40mohafezisgahsalavati%3A%3APL
