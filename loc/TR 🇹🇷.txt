@@ -1,1 +1,0 @@
-vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=%3Fed%3D1024&host=bastona.aroonsid.ir#%3E%3E%40v2ray_configs_pool%3A%3ATR
