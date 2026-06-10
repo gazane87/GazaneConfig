@@ -1,2 +1,0 @@
-vless://959fde23-35b9-4266-95fb-d267e62e38e4@72.56.11.76:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net#%3E%3E%40V2ry_Proxy%3A%3ARU
