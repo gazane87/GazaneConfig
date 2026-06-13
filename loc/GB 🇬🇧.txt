@@ -5,4 +5,3 @@ ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@35.176.239.59:80#%3E%3E%40v2nodes%3A%3AGB
 ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@18.169.183.101:80?type=tcp&headerType=none#%3E%3E%40v2rayng_fast%3A%3AGB
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://eba407c9-7c1f-477e-977c-ba5ed81a763a@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t1.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t1.tzteam.online#%3E%3E%40mehrosaboran%3A%3AGB

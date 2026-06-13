@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%3E%3E%40shadowproxy66%3A%3ATR
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#%3E%3E%40V2rayNG3%3A%3ATR
