@@ -1,0 +1,1 @@
+vless://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?type=ws&security=tls&host=picassooo.info&path=%2Faymdlws&sni=picassooo.info#%3E%3E%40hope_net%3A%3ACL
