@@ -1,1 +1,0 @@
-vless://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&security=tls&encryption=none&insecure=0&host=ws23.iranservicepro.com&fp=chrome&type=ws&allowInsecure=0&sni=ws23.iranservicepro.com#%3E%3E%40ShadowsocksM%3A%3AGB
