@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2FmN2JiMDUzNTY0OTlkYmQ4YTg1MTZjMjFiNTczMw@104.194.144.74:80?type=tcp#%3E%3E%40configshub2%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%3E%3E%40free_nettm%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%3E%3E%40free_nettm%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40ShadowsocksM%3A%3AGB
