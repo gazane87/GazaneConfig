@@ -1,1 +1,2 @@
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.208.22.155:10034?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40ShadowsocksM%3A%3AGB
+vless://0c29e923-168d-46f2-baab-eaad11c15f69@45.89.63.95:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=h2dJU4U9vJd5hxxrtjbW0pkn2B4h2w7IkheY_BHtlkM&security=reality&sni=node1.food38.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://2e8c7f71-e3da-45e6-bdab-dda715beb364@cdh.pascalplus.com:46082?security=none&type=tcp&headerType=http&path=%2F&host=nobat.ir#%3E%3E%40configshub2%3A%3AGB
