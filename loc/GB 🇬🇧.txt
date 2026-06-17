@@ -1,3 +1,2 @@
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443#%3E%3E%40oneclickvpnkeys%3A%3AGB
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://916911dd-530e-457d-8e71-3db3961fafeb@undef.network:2052?path=%2Fapi-v1&security=&encryption=none&host=pl.meeowww.qzz.io&type=ws#%3E%3E%40configshub2%3A%3AGB
