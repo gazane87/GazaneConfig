@@ -1,2 +1,2 @@
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443#%3E%3E%40oneclickvpnkeys%3A%3AGB
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&type=ws&allowInsecure=0&sni=uk1.bw8848.org#%3E%3E%40configV2rayNG%3A%3AGB
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@89.125.151.152:20630?security=&encryption=none&host=google.com&headerType=http&type=tcp#%3E%3E%40configshub2%3A%3AGB

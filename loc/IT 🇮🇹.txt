@@ -1,1 +1,2 @@
+vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@185.198.235.249:30542?security=&encryption=none&host=google.com&headerType=http&type=tcp#%3E%3E%40configshub2%3A%3AIT
 vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&flow=xtls-rprx-vision#%3E%3E%40configshub2%3A%3AIT
