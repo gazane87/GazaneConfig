@@ -1,1 +1,0 @@
-vless://0ba2d2bb-ef88-47dd-9c8f-2c44aa0e8261@194.87.245.149:43357?security=&encryption=none&host=google.com&headerType=http&type=tcp#%3E%3E%40configshub2%3A%3AIE
