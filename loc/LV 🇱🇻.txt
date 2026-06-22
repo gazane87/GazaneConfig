@@ -1,0 +1,1 @@
+vless://ef1acd2e-a969-42d7-9ed1-c04e2a00647b@riga.shanaam.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=riga.shanaam.ir&fp=chrome&type=ws&allowInsecure=0&sni=riga.shanaam.ir#%3E%3E%40configshub2%3A%3ALV
