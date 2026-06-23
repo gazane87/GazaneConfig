@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@45.10.41.129:51523#%3E%3E%40shadowsockskeys%3A%3ARU
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#%3E%3E%40FreakConfig%3A%3ARU
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@81.17.154.131:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%3E%3E%40v2nodes%3A%3ARU
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@72.56.32.211:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40configshub2%3A%3ARU
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
