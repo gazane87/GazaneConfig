@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVvM1ZubW8xY0FlZTRRTko2ZjJINFhzSm5mV25BbTZFY2pGZUhXS0YydFN1WHZud2M2QzR2N2FqendpMVk4algyZE1wZTZxVjVtNDc1WHNmbkt2Q2pZU3BHYjFYcGo@46.249.109.128:56594#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODVFY0M0Y0MzNmlZdEx1ZmVob1BodmdlQk1kUFRzMUZLU0tHdEVnaWZnVUVqRDN3QWN4dm0xMzR4ZG85WGVkeVpLQ0p5VU10WG83ZDJneUZqSnpBU2h2NURjeFA5Mjc@46.249.109.128:56594#%3E%3E%40free1ss%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVvM1ZubW8xY0FlZTRRTko2ZjJINFhzSm5mV25BbTZFY2pGZUhXS0YydFN1WHZud2M2QzR2N2FqendpMVk4algyZE1wZTZxVjVtNDc1WHNmbkt2Q2pZU3BHYjFYcGo@46.249.109.128:56594#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVXl5ZFU3Q1ZraEQ1Qko0S2U2anlq@195.133.2.2:34898#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbzFEWi1fUXZrRldYenNqY193OGVUNS1UZVlQNlUzUQ@62.60.255.11:8388#%3E%3E%40shadowproxy66%3A%3AFI
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#%3E%3E%40V2ry_Proxy%3A%3AFI
-vless://9678a26b-d92f-4b62-8ca9-d02c4edf8e1a@ipadvpn.dpdns.org:80?security=&encryption=none&host=paly.google.com&headerType=http&type=tcp#%3E%3E%40configV2rayNG%3A%3AFI
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%3E%3E%40configV2rayForFree%3A%3AFI
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
