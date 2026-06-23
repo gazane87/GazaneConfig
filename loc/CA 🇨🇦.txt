@@ -1,0 +1,1 @@
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@188.114.97.6:2053?mode=packet-up&path=%2Fdl%3Fid%3D5556&security=tls&encryption=none&extra=&insecure=0&host=ca.zarzirzor.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca.zarzirzor.ir#%3E%3E%40configshub2%3A%3ACA
