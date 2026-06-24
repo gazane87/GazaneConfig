@@ -1,0 +1,1 @@
+trojan://zK%3D0KfL3IG%2BsNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%3E%3E%40free_nettm%3A%3AIT
