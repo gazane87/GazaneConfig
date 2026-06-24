@@ -1,1 +1,1 @@
-vless://1bb79bd5-95ca-408b-804a-000f410a7d63@hm.khoycityman.ir:41319?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40configshub2%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%3E%3E%40vmessorg%3A%3ATR
