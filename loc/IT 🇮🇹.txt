@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%3E%3E%40free1ss%3A%3AIT
 trojan://zK%3D0KfL3IG%2BsNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443#%3E%3E%40free1ss%3A%3AIT
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIT
 vless://d7d95e1b-0c38-4553-82e4-6002f472fcd5@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AIT
