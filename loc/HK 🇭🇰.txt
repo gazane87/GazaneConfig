@@ -1,1 +1,0 @@
-vless://MATiN@45.38.42.238:8880?encryption=none&host=45.38.42.238&path=%2Fws&security=none&type=ws#%3E%3E%40v2rayng_fast%3A%3AHK
