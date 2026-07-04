@@ -1,0 +1,1 @@
+vless://62f5374b-c588-4d6d-b681-5e712ae12ea4@sub.1.polnejat.ir:4720?type=tcp#%3E%3E%40configshub2%3A%3ADK
