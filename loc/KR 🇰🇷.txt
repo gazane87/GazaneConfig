@@ -1,4 +1,9 @@
+trojan://XG59623478@adjusted-turtle.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://XG59623478@eager-camel.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://XG59623478@exotic-chicken.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
 trojan://XG59623478@moral-buzzard.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
 trojan://XG59623478@perfect-slug.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://XG59623478@rich-gelding.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
 trojan://XG59623478@steady-lemming.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
 trojan://XG59623478@topical-fox.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
+trojan://XG59623478@wealthy-bengal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AKR
