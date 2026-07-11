@@ -1,3 +1,4 @@
+trojan://521314@104.248.161.136:443?allowInsecure=1&host=tjplay.lxdxo.kdns.fr&path=%2F&sni=tjplay.lxdxo.kdns.fr&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
