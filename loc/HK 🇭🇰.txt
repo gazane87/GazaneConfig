@@ -1,2 +1,4 @@
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443/?sni=argg2.auragg.org#%3E%3E%40oneclickvpnkeys%3A%3AHK
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#%3E%3E%40V2ry_Proxy%3A%3AHK
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%3E%3E%40openkeysfree%3A%3AHK
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&type=ws&allowInsecure=0&sni=amooaliii.net#%3E%3E%40VmessProtocol%3A%3AHK
