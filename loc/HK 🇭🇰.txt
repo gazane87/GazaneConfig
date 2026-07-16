@@ -1,2 +1,4 @@
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.138:10851#%3E%3E%40free1ss%3A%3AHK
+trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
+trojan://CF68213490@well-marmot.rooster465.autos:443?allowInsecure=0&sni=well-marmot.rooster465.autos#%3E%3E%40v2nodes%3A%3AHK
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AHK
