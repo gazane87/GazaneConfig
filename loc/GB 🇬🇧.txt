@@ -1,7 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40free1ss%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@188.119.149.27:1080#%3E%3E%40oneclickvpnkeys%3A%3AGB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.12.48.126:1080#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://3067642d-02fa-47e9-a6a2-fb5dda565969@45.86.159.138:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB

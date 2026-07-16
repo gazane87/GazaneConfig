@@ -1,4 +1,1 @@
-vless://b8bdf08d-aa89-4fd5-8083-22f38e2cef17@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#%3E%3E%40ShadowsocksM%3A%3AFI
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.128.14:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://b51b1aa7-6a66-4998-aeb3-d7d8bb2597bb@65.109.218.25:59849?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3AFI
