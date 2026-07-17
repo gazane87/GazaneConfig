@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.26.156:1080#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://d1c9eccc-91b1-4185-e459-febe9c42ccd1@179.237.75.28:11596?security=reality&encryption=none&pbk=L6zEB5x8-kyr75lwmBNuz2S_UFo-GwVZvcyy0GY8QXA&host=yahoo.com&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com#%3E%3E%40configV2rayNG%3A%3ACH
