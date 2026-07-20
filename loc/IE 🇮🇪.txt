@@ -1,5 +1,5 @@
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=1&sni=fun-labrador.rooster465.autos#%3E%3E%40v2nodes%3A%3AIE
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?allowInsecure=1&sni=fun-labrador.rooster465.autos#%3E%3E%40v2nodes%3A%3AIE
 trojan://NQ26071394@funky-opossum.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
