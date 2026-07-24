@@ -1,7 +1,7 @@
 trojan://FC60532879@neat-quail.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
 trojan://FC60532879@resolved-gelding.rooster465.autos:443?allowInsecure=0&sni=resolved-gelding.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
-trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@casual-stallion.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
+trojan://IQ68037294@apt-midge.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@endless-kiwi.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@full-mackerel.rooster465.autos:443?security=tls#%3E%3E%40v2nodes%3A%3ASG
 trojan://IQ68037294@giving-bird.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
