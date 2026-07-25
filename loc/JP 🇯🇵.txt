@@ -1,6 +1,6 @@
 trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
 trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
+trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
 trojan://IQ68037294@square-anchovy.rooster465.autos:443?allowInsecure=0&sni=square-anchovy.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#%3E%3E%40v2nodes%3A%3AJP
 trojan://JT80563429@inspired-hound.rooster465.autos:443?allowInsecure=0&sni=inspired-hound.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
