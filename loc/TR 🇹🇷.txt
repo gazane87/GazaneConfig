@@ -1,2 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRlBweXVxazNIMFk4SlZwVkdxU0p3@188.41.249.20:1080#%3E%3E%40shadowsockskeys%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRlBweXVxazNIMFk4SlZwVkdxU0p3@188.41.249.20:1080#%3E%3E%40free1ss%3A%3ATR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRlBweXVxazNIMFk4SlZwVkdxU0p3@tu1.levikogjgfdd.ir:1080#%3E%3E%40sorenab2%3A%3ATR
 vless://963c91fc-1ce7-4fc7-806f-0a2e7b03bfee@198.202.211.1:443?path=%2Fassignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&security=tls&encryption=none&insecure=0&host=sinavm3.soft10.ir&fp=qq&type=ws&allowInsecure=0&sni=sinavm3.soft10.ir#%3E%3E%40configV2rayNG%3A%3ATR
