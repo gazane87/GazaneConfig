@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%3E%3E%40free1ss%3A%3ATR
 hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?headerType=none&encryption=none&sni=taga10.api3-max.ru&insecure=0#%3E%3E%40outlineOpenKey%3A%3ATR
