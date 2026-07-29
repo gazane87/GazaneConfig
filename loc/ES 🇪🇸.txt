@@ -1,2 +1,1 @@
-vless://179b1ae5-9e71-402e-b854-a2b54e7004a9@spain-guard.f1-connect.apruxdomain.xyz:25881?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AES
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AES
