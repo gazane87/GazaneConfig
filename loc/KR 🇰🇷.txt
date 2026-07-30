@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#%3E%3E%40shadowsockskeys%3A%3AKR
 hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-kr-002.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3AKR

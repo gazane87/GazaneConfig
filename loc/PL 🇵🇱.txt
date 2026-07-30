@@ -1,4 +1,1 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#%3E%3E%40free1ss%3A%3APL
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40FreakConfig%3A%3APL
-trojan://humanity@165.215.250.14:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://humanity@202.37.33.80:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://6f34a071-9a87-4665-b01a-4b5a5c95e552@31.76.87.210:8443?encryption=none&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2Fevents&security=tls&fp=chrome&sni=pl1.gobalance.live#%3E%3E%40outlineOpenKey%3A%3APL
