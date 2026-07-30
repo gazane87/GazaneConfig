@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@37.120.131.62:1080#%3E%3E%40sorenab2%3A%3ADK
+vless://95891abd-c399-a085-ea21-21df48ea0fa2@198.41.209.149:443?path=/ws/oxnetir-vl-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=oxnetirpx.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=oxnetirpx.kdns.fr#%3E%3E%40v2nodes%3A%3ADK
