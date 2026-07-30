@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg@185.22.154.103:10921#%3E%3E%40shadowsockskeys%3A%3ARU
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#%3E%3E%40v2ray_configs_pool%3A%3ARU
