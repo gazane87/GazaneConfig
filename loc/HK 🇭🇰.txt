@@ -1,1 +1,1 @@
-vless://73c8ad8a-5803-49fb-8183-39f34ad3a3ea@198.44.177.117:60101?allowInsecure=1#%3E%3E%40v2nodes%3A%3AHK
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40flyv2ray%3A%3AHK
