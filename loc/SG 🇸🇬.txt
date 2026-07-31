@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXOFQ0NE5TTHVjemNuY0dJZjkybTZR@178.128.101.77:1080#%3E%3E%40free1ss%3A%3ASG
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@138.2.75.33:56927#%3E%3E%40free1ss%3A%3ASG
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?sni=www.nintendogames.net#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096?&security=tls&fp=chrome&sni=shalana.xyz&type=ws&headerType=none&host=shalana.xyz&path=%2Fshalana#%3E%3E%40v2nodes%3A%3ASG
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&encryption=none#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
