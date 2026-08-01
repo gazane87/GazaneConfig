@@ -1,1 +1,0 @@
-vless://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@sentinel.unlimitedprojects.fun:443?security=tls&type=xhttp&path=%2Fapi%2Fv1%2Fdata&host=sentinel.unlimitedprojects.fun&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=sentinel.unlimitedprojects.fun&fp=firefox&mode=auto#%3E%3E%40outlineOpenKey%3A%3ACZ
