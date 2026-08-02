@@ -1,1 +1,0 @@
-vless://76760281-ab3f-4bfc-9be0-4d16bb950580@162.159.38.119:443?path=%2Fdastak&security=tls&alpn=h2&encryption=none&insecure=0&host=wt729v4w.farhannii.ir&fp=firefox&type=ws&allowInsecure=0&sni=wt729v4w.farhannii.ir#%3E%3E%40v2rayNG_Matsuri%3A%3AIT
