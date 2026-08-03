@@ -1,0 +1,1 @@
+vless://29ca503d-e6b8-4509-b666-48133f450857@172.66.44.97:443?encryption=none&host=learn00.evany.de5.net&path=%2Fsg-melbi&security=tls&sni=learn00.evany.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AKP
