@@ -1,2 +1,1 @@
-vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.19.229.21:443?path=%2Fnova-geo-psiphon-ch&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo1.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo1.zenvorix.ir#%3E%3E%40FreakConfig%3A%3ACH
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH

@@ -1,1 +1,0 @@
-vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.21.40.208:443?path=%2Fnova-geo-psiphon-dk&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo13.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo13.zenvorix.ir#%3E%3E%40v2ray1_ng%3A%3ADK
