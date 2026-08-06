@@ -1,2 +1,1 @@
-vless://59b2ff61-808d-4dcc-b74a-fa283ff82c42@46.8.237.5:2084/?type=grpc&encryption=none&flow=&serviceName=grpc#%3E%3E%40oneclickvpnkeys%3A%3ALV
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#%3E%3E%40oneclickvpnkeys%3A%3ALV
