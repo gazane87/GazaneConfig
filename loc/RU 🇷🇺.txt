@@ -1,2 +1,1 @@
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40v2ray_configs_pool%3A%3ARU
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200/?type=ws&encryption=none&flow=&path=%2Fv1#%3E%3E%40oneclickvpnkeys%3A%3ARU
