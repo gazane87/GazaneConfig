@@ -1,5 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40oneclickvpnkeys%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.67.22:61312#%3E%3E%40free1ss%3A%3AGB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#%3E%3E%40free4allVPN%3A%3AGB
 vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&mode=auto&path=%2F&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://cab38fce-e08d-4a3d-9828-dcb96b18d132@smm-01.smmmdesign.com:443?encryption=none&type=ws&path=%2Fvless&host=smm-01.smmmdesign.com&security=tls&sni=smm-01.smmmdesign.com#%3E%3E%40outlineOpenKey%3A%3AGB
