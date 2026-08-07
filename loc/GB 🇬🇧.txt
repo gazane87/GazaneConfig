@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@194.164.92.198:1234#%3E%3E%40oneclickvpnkeys%3A%3AGB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.72.21:61312#%3E%3E%40oneclickvpnkeys%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.72.21:61312#%3E%3E%40free1ss%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.92.200:61312#%3E%3E%40free1ss%3A%3AGB
 vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@meshbuzz.bond:443?path=%2Fmashdi&security=tls&encryption=none&insecure=0&host=OhPwIlJo8.RoBoRoCkS.Ir&fp=firefox&type=ws&allowInsecure=0&sni=OhPwIlJo8.RoBoRoCkS.Ir#%3E%3E%40mehrosaboran%3A%3AGB
 vless://8f2a6194-1748-4ec7-9c5f-8ad504818aa3@167.233.225.59:443?encryption=none&mode=auto&path=%2F&security=tls&sni=uk-cf.aba-hum.store&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://d006fdc7-9aed-4763-bc40-e45aa7c54658@165.232.108.151:443?path=%2F&security=tls&encryption=none&insecure=0&host=rzwsyya1.ujstc4eymicyxtacnf7r.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=rzwsyya1.ujstc4eymicyxtacnf7r.workers.dev#%3E%3E%40freeland8%3A%3AGB
