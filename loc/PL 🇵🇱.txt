@@ -1,5 +1,5 @@
-trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#%3E%3E%40v2nodes%3A%3APL
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@193.247.82.92:443?security=tls&sni=pla.tunnelguard.ru&type=xhttp&host=pla.tunnelguard.ru&path=/&fp=firefox&alpn=h2,http/1.1#%3E%3E%40outlineOpenKey%3A%3APL
