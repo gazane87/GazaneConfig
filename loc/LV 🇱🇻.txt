@@ -1,1 +1,2 @@
+vless://Tel-NamedZadim@104.252.19.69:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ALV
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#%3E%3E%40oneclickvpnkeys%3A%3ALV
