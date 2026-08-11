@@ -1,3 +1,3 @@
 vless://a5a544bf-e4b3-4651-9ff4-de3461910d87@104.18.32.47:443?encryption=none&type=xhttp&security=tls&sni=rus.aba-hum.store&fp=chrome&alpn=h3&allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3ARU
-vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:2200?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40FreakConfig%3A%3ARU
+vless://b79c54f3-68e9-4e9d-8b57-22cbbe978730@77.222.37.89:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40v2ray1_ng%3A%3ARU
 vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%3E%3E%40configV2rayNG%3A%3ARU
