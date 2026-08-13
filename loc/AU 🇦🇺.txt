@@ -1,0 +1,2 @@
+trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
+trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AAU
