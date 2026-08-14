@@ -1,2 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdFp3TDd5dUdKTDcwbTM5RDFVcXV2cnFmMzJwRkF2dw@212.87.198.109:1080#%3E%3E%40shadowsockskeys%3A%3ATR
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ATR
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%3E%3E%40configV2rayForFree%3A%3ATR
