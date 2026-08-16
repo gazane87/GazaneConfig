@@ -1,4 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%3E%3E%40FreakConfig%3A%3ASG
 trojan://AE62539071@integral-quetzal.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=1&sni=charming-ox.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://FH72359861@worthy-perch.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3ASG
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.118.45:443?type=ws&security=tls&sni=zero.csmaster.ggff.net&fp=chrome&path=%2F&host=zero.csmaster.ggff.net#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.57:2096?encryption=none&fp=chrome&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev&security=tls&sni=free-server.techsonic.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG

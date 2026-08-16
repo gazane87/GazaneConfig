@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng@212.193.6.27:234#%3E%3E%40shadowsockskeys%3A%3ARU
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#%3E%3E%40FreakConfig%3A%3ARU
+vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40v2ray1_ng%3A%3ARU
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc-reality&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ARU
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&type=tcp&security=tls&sni=ru52.mechvpn.online&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ARU
 hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160/?sni=185-22-155-81.liao.kdns.fr#%3E%3E%40oneclickvpnkeys%3A%3ARU
 hysteria2://b268a3a1-3826-44a3-9ffb-3ac2095300ca@89.169.47.112:443/?sni=game.hambot.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU
