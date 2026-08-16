@@ -1,3 +1,4 @@
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2083?type=grpc&security=tls&fp=ios&mode=gun&serviceName=grpc#%3E%3E%40outlineOpenKey%3A%3ALV
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2053?encryption=none&type=tcp&security=reality&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&sni=vk.ru&fp=edge&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ALV
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?encryption=none&type=ws&path=%2F&host=laoye.in-gect.fun#%3E%3E%40outlineOpenKey%3A%3ALV
 hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444/?insecure=1&sni=185.236.22.119#%3E%3E%40oneclickvpnkeys%3A%3ALV

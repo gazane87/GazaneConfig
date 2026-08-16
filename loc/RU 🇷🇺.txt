@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamg0QWFKVGxwaHJ6VTdUSE5qdlkwNUk1ZHlPOHJ3Ng@212.193.6.27:234#%3E%3E%40shadowsockskeys%3A%3ARU
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&type=tcp&security=tls&sni=ru52.mechvpn.online&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ARU
-hysteria2://2a0099ded5baa93c55823af39229c5b1@185-22-155-81.liao.kdns.fr:50160/?sni=185-22-155-81.liao.kdns.fr#%3E%3E%40oneclickvpnkeys%3A%3ARU
