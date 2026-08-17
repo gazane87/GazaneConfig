@@ -1,2 +1,1 @@
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?path=%2Fv1&security=none&encryption=none&type=ws#%3E%3E%40v2rayng_fast%3A%3ARU
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&type=tcp&security=tls&sni=ru52.mechvpn.online&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ARU
