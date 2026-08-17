@@ -1,7 +1,6 @@
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.120.218:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%3E%3E%40configV2rayNG%3A%3AHK
 trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
-trojan://AE62539071@novel-mouse.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@modest-foal.rooster465.autos:443?sni=modest-foal.rooster465.autos&allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
+trojan://AE62539071@novel-mouse.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@strong-haddock.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@upright-bedbug.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40outlineOpenKey%3A%3AHK
