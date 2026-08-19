@@ -15,8 +15,8 @@ trojan://FH72359861@game-firefly.rooster465.autos:443#%3E%3E%40outlineOpenKey%3A
 trojan://FH72359861@magnetic-caiman.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://FH72359861@optimal-urchin.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
-trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#%3E%3E%40outlineOpenKey%3A%3APL
