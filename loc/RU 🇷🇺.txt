@@ -1,5 +1,2 @@
-vless://260d1fd7-668a-4ded-a0f5-8f177cf16525@72.56.32.106:7443?type=xhttp&security=tls&fp=firefox&sni=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@94.156.181.52:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=ru52.mechvpn.online#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&type=tcp&security=tls&sni=ru52.mechvpn.online&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ARU
-vless://9f5211c6-0f4b-4267-9650-44fa6be4405e@72.56.32.106:7443?type=xhttp&security=tls&fp=firefox&sni=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/#%3E%3E%40outlineOpenKey%3A%3ARU
-vless://c3839eb8-13b0-4647-8126-2554fd0a0db4@72.56.32.106:7443?type=xhttp&security=tls&fp=firefox&sni=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/#%3E%3E%40outlineOpenKey%3A%3ARU
