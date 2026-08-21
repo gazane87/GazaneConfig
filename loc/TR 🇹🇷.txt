@@ -1,1 +1,2 @@
 vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%3E%3E%40outline_vpn%3A%3ATR
+vless://93e37208-ef50-47cf-97cc-8a099b16311c@trone.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%3E%3E%40v2ray1_ng%3A%3ATR
