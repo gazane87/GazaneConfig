@@ -1,9 +1,2 @@
-trojan://AE62539071@18.183.140.61:443?fp=chrome&security=tls&sni=harmless-imp.rooster465.autos&type=tcp#%3E%3E%40v2nodes%3A%3AJP
-trojan://AE62539071@54.249.33.71:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://AE62539071@climbing-frog.rooster465.autos:443?allowInsecure=0&sni=climbing-frog.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://AE62539071@whole-perch.rooster465.autos:443?allowInsecure=0&sni=whole-perch.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://FH72359861@3.112.4.72:443?sni=definite-hen.rooster465.autos&fp=chrome&type=tcp&path=/#%3E%3E%40outlineOpenKey%3A%3AJP
 trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AJP
-trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
