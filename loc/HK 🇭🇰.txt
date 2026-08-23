@@ -1,7 +1,7 @@
 trojan://AE62539071@91.199.84.120:443?type=tcp&security=tls&sni=dynamic-grubworm.rooster465.autos#%3E%3E%40outlineOpenKey%3A%3AHK
+trojan://AE62539071@magical-kodiak.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@humorous-parakeet.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
-trojan://AE62539071@magical-kodiak.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://AE62539071@modest-foal.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://AE62539071@novel-mouse.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://AE62539071@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos&type=tcp&path=%2f&allow_insecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
@@ -10,14 +10,16 @@ trojan://AE62539071@upright-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys
 trojan://AE62539071@wealthy-loon.rooster465.autos:443?sni=wealthy-loon.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://EQ30679154@kind-unicorn.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://EQ30679154@true-coral.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
-trojan://FH72359861@natural-swan.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://FH72359861@91.199.84.120:443?type=tcp&security=tls&sni=dynamic-grubworm.rooster465.autos#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://FH72359861@modern-bedbug.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
-trojan://FH72359861@strong-haddock.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
+trojan://FH72359861@natural-swan.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AHK
+trojan://FH72359861@strong-haddock.rooster465.autos:443?allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://HC04361579@renewing-ewe.rooster465.autos:443?security=tls&sni=renewing-ewe.rooster465.autos&type=tcp&path=%2f#%3E%3E%40outlineOpenKey%3A%3AHK
 trojan://ND91608427@185.244.208.210:443?fp=chrome&sni=upright-hamster.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://ND91608427@ace-starling.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AHK
 trojan://PQ05174892@185.14.47.101:443?type=tcp&security=tls&sni=ideal-robin.rooster465.autos#%3E%3E%40outlineOpenKey%3A%3AHK
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AHK
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%3E%3E%40oneclickvpnkeys%3A%3AHK
