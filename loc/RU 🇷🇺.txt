@@ -1,1 +1,1 @@
-vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%3E%3E%40FreakConfig%3A%3ARU
+ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@46.17.40.234:40112#%3E%3E%40shadowsockskeys%3A%3ARU
