@@ -1,2 +1,1 @@
 vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40prrofile_purple%3A%3ARU
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=127.0.0.1&insecure=1#%3E%3E%40outlineOpenKey%3A%3ARU
