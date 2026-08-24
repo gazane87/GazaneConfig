@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM=@217.28.129.81:42982#%3E%3E%40free1ss%3A%3AFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM@autodiscover.fuzzyaytor.cyou:42982#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://20575207-142b-42bd-a7de-74fbd4a1c620@65.109.211.136:30551?security=&encryption=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 vless://22fff84b-dd89-489d-bc4c-794f664b92a2@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132-243-223-227.sslip.io:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=firefox&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
