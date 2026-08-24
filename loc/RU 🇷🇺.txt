@@ -1,2 +1,0 @@
-vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?mode=gun&security=reality&encryption=none&authority=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox&type=grpc&serviceName=ns&sni=id.pervye.ru#%3E%3E%40FreakConfig%3A%3ARU
-vless://b8e7156b-5bba-4f38-aca8-11183d21514f@178.236.254.67:25565?security=reality&encryption=none&pbk=z7GrVgYcEWSLwXpJdfyC4YzGyI4DkX1EiFSQsonTm0Q&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.storage.mobifitness.ru#%3E%3E%40configV2rayNG%3A%3ARU
