@@ -1,3 +1,4 @@
 vless://19365fd3-d23c-4a9e-a2ef-543d230e65c4@193.233.217.140:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws#%3E%3E%40prrofile_purple%3A%3ARU
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@138.16.129.32:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#%3E%3E%40mehrosaboran%3A%3ARU
+vless://42a6ff62-1d4e-4065-8e44-bab910e19e3b@217.149.30.225:443?security=reality&encryption=none&pbk=MFVPHZoccZWr4YZLcIaVedY07BhRfdT4y1XWpp2IWnA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=97fbc6738543f9dc#%3E%3E%40configV2rayNG%3A%3ARU
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@201.24.53.247:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#%3E%3E%40v2rayNG_Matsuri%3A%3ARU
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?security=tls&fp=chrome&alpn=h3#%3E%3E%40outlineOpenKey%3A%3ARU
