@@ -1,6 +1,4 @@
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@194.246.118.199:443?allowInsecure=1&encryption=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@45.95.232.18:2053?allowInsecure=1&encryption=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c491730%7C+%F0%9F%87%A8%F0%9F%87%AD+%E7%91%9E%E5%A3%AB+18+%7C+45.95.232.18%3A2053&security=tls&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ACH
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%3E%3E%40oneclickvpnkeys%3A%3ACH
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@185.191.238.202:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%3E%3E%40oneclickvpnkeys%3A%3ACH
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%3E%3E%40oneclickvpnkeys%3A%3ACH
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443/?sni=hy2-switzerlandgopota.unlimited-access.ru#%3E%3E%40oneclickvpnkeys%3A%3ACH
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8080/?sni=grape-turbo-fr.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ACH
