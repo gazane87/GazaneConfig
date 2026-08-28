@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#%3E%3E%40V2rayNG3%3A%3AGB
-vless://82d145c1-d691-4eef-9de1-9c316db4859a@31.76.71.131:443?type=grpc&security=reality&fp=firefox&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&sni=dl.google.com&serviceName=grpc-tunnel#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://d900a139-8b5f-4758-8a32-389c6f36fc86@31.76.71.131:443?type=grpc&security=reality&fp=firefox&pbk=Vs7_XFo1cg224HiMYNRTJij_O4uyUIFtxMGGtBs_E3Q&sni=dl.google.com&serviceName=grpc-tunnel#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.208.204:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.208.204:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.208.204:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB

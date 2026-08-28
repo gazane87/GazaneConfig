@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZRNytOeXY5N3g0PQ@206.189.40.108:54898#%3E%3E%40free1ss%3A%3ASG
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#%3E%3E%40outlineOpenKey%3A%3ASG
-hy2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-sg-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%3E%3E%40outlineOpenKey%3A%3ASG
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.157.26:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.1.222:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%3E%3E%40outlineOpenKey%3A%3ASG
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.157.26:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%3E%3E%40outlineOpenKey%3A%3ASG
