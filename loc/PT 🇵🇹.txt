@@ -1,0 +1,1 @@
+vless://aebf0af6-7890-45ec-adf9-e6f502f2303e@178.104.129.39:14726?encryption=none&headerType=http&host=amp-api-edge.apps.apple.com&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APT
