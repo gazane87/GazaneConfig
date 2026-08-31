@@ -1,0 +1,1 @@
+hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443/?insecure=0&sni=se.allgoodvpn.su#%3E%3E%40outlineOpenKey%3A%3ASE

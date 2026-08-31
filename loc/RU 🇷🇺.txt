@@ -1,5 +1,7 @@
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox&type=grpc&serviceName=grpc-reality&sni=api-maps.yandex.ru&sid=6ba85179e30d4fc2#%3E%3E%40configV2rayNG%3A%3ARU
+vless://09a8ee8b-1234-44c8-b84d-ccfe23a182ab@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc#%3E%3E%40v2nodes%3A%3ARU
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3ARU
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&security=none&type=ws#%3E%3E%40ShadowsocksM%3A%3ARU
+vless://b3633cf2-96e5-4828-9a1e-a64b7d438d01@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%3E%3E%40outlineOpenKey%3A%3ARU
