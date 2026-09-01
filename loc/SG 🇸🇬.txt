@@ -1,2 +1,2 @@
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?sni=whatsapp.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?sni=whatsapp.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
