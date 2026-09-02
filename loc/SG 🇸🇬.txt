@@ -1,2 +1,7 @@
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825?security=reality&type=tcp&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.74.206:8443?encryption=none&type=ws&path=%2F&host=8.sahanwickramasinghe.me&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.72.206:8443?type=ws&security=tls&fp=firefox&sni=8.sahanwickramasinghe.me#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://542fd687-5160-4f80-9223-56678567dd29@104.17.71.206:8443?encryption=none&type=ws&path=%2F&host=8.sahanwickramasinghe.me&security=tls&sni=8.sahanwickramasinghe.me&fp=firefox#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.54.166:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?sni=whatsapp.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
