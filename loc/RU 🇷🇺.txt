@@ -1,3 +1,1 @@
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@193.160.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#%3E%3E%40configV2rayNG%3A%3ARU
-vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHpnUW5XYzYtTFM2RTVsb0JNSFptMHJRQ3F5alhrbg@161.104.55.242:4500#%3E%3E%40free1ss%3A%3ARU
