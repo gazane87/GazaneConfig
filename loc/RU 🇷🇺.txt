@@ -1,3 +1,5 @@
-vless://2da8106d-8c6a-4818-9a79-07890f9dd859@80.90.188.104:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#%3E%3E%40v2nodes%3A%3ARU
+vless://173330cf-bd41-4c0d-ac3c-a4e95d17de6e@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#%3E%3E%40v2nodes%3A%3ARU
 vless://d7ff1a6d-529e-4260-aa46-3c8a7fd681f4@178.72.167.151:443?path=%2FeCuiEa7kedJ1UIGB3Gbgdt3XeUd&security=reality&encryption=none&pbk=54p7hD_YYV5f2ATL7rTBk4NG_KhStO76-1_tSKmXah8&host=2gis.ru&fp=firefox&type=xhttp&sni=2gis.ru&sid=d45603#%3E%3E%40configV2rayNG%3A%3ARU
+vless://e8aca5a9-baba-4039-8eb8-f2deae600136@72.56.32.106:7443?alpn=h2&encryption=none&fp=firefox&host=ruservice4.oaklandjoseph.top&path=/assets/build/_app/immutable/chunks/&security=tls&sni=ruservice4.oaklandjoseph.top&type=xhttp#%3E%3E%40outlineOpenKey%3A%3ARU
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=127.0.0.1&insecure=1#%3E%3E%40outlineOpenKey%3A%3ARU

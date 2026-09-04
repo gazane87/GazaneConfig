@@ -1,5 +1,4 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TlRRd1ptRmxaVGN3WldZMU5ETmlZemczWkRKbE16bGtOMlJpTm1ZeU1UYz06WkRBMFpqUmlNekl4TkRjNU5EUTVabUZsT0RReE5HSmhaR0U0TldJelkyUT0@209.200.246.182:11994#%3E%3E%40shadowsockskeys%3A%3ACA
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443?insecure=1#%3E%3E%40outlineOpenKey%3A%3ACA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%3E%3E%40outlineOpenKey%3A%3ACA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me#%3E%3E%40oneclickvpnkeys%3A%3ACA
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%3E%3E%40outlineOpenKey%3A%3ACA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#%3E%3E%40oneclickvpnkeys%3A%3ACA
