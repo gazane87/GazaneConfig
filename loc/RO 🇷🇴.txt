@@ -1,2 +1,1 @@
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8443/?insecure=1&sni=hopp-romania-new.roxa.org#%3E%3E%40oneclickvpnkeys%3A%3ARO
 hysteria2://niEGIEcu9rRmRBoA3yYiKtFRv87BMRnFEpozCmNTHyY@give.internet-card.sbs:24444?sni=bel7bel.internet-card.sbs&alpn=h3#%3E%3E%40outlineOpenKey%3A%3ARO
