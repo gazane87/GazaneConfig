@@ -1,0 +1,2 @@
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%3E%3E%40configV2rayNG%3A%3ATR
+vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@tr01.botovod.space:443?alpn=h2%2Chttp/1.1&encryption=none&fp=chrome&path=/&security=tls&type=xhttp#%3E%3E%40outlineOpenKey%3A%3ATR
