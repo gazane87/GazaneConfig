@@ -1,1 +1,0 @@
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?security=reality&encryption=none&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch-1.kihsuyhf8jkiugsxb.cfd#%3E%3E%40configV2rayNG%3A%3ACH
