@@ -1,6 +1,12 @@
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#%3E%3E%40outline_vpn%3A%3APL
 vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?path=%2F&security=none&encryption=none&host=pl2.lckdwn.ru&type=ws#%3E%3E%40outline_vpn%3A%3APL
+vless://84c898c4-6990-4121-ae51-27d989f5ce39@94.183.209.42:443?encryption=none&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://84c898c4-6990-4121-ae51-27d989f5ce39@pl3.lckdwn.ru:443?encryption=none&host=pl3.lckdwn.ru&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443?security=tls&alpn=h2&encryption=none&insecure=0&host=%2F%3FBIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl6.moritech.net#%3E%3E%40v2rayng_fast%3A%3APL
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40outline_vpn%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
