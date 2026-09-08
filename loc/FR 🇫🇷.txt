@@ -1,4 +1,6 @@
-vless://365747d7-9c6e-4ecd-8bbb-a9a7d5f71c3f@172.67.217.222:443?path=%2Fbalad&security=tls&alpn=h2http%2F1.1&encryption=none&insecure=0&host=minileafbox-norm.lat&type=ws&allowInsecure=0&sni=minileafbox-norm.lat#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.64.150:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.64.150:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.64.150:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
