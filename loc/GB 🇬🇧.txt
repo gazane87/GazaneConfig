@@ -1,3 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#%3E%3E%40free1ss%3A%3AGB
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443/?insecure=1&sni=labs.frkn.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1#%3E%3E%40outlineOpenKey%3A%3AGB
