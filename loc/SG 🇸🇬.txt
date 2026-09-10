@@ -1,6 +1,6 @@
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443?insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%3E%3E%40outlineOpenKey%3A%3ASG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443/?insecure=1&sni=13.212.76.106#%3E%3E%40outlineOpenKey%3A%3ASG
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443?insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443/?insecure=1&sni=13.250.120.9#%3E%3E%40oneclickvpnkeys%3A%3ASG
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443/?insecure=1&sni=speedtest.tinkoff.ru#%3E%3E%40oneclickvpnkeys%3A%3ASG
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443/?insecure=1&sni=13.212.76.106#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?insecure=1&sni=whatsapp.com#%3E%3E%40oneclickvpnkeys%3A%3ASG
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443/?insecure=1&sni=speedtest.tinkoff.ru#%3E%3E%40oneclickvpnkeys%3A%3ASG

@@ -1,3 +1,2 @@
-vless://02c05088-fcb4-4366-b8d3-98d68c7bdb98@37.221.110.245:2085?encryption=none&security=none&serviceName=vless&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443/?insecure=1&sni=labs.frkn.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1#%3E%3E%40outlineOpenKey%3A%3AGB

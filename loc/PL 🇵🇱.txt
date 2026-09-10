@@ -1,12 +1,1 @@
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@95.85.253.208:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&fp=firefox&type=xhttp&sni=www.google.com#%3E%3E%40configV2rayNG%3A%3APL
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=qq&mode=auto&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%3E%3E%40outlineOpenKey%3A%3APL
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl-new-ded.moritech.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded2.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl-new-ded2.moritech.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3-ded.moritech.net:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl3-ded.moritech.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.234:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=viper-22.moriarty-web.com&type=tcp#%3E%3E%40outlineOpenKey%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go1.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
