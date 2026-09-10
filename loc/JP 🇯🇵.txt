@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388#%3E%3E%40v2rayNG_Matsuri%3A%3AJP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%3E%3E%40v2nodes%3A%3AJP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%3E%3E%40v2nodes%3A%3AJP
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%3E%3E%40v2nodes%3A%3AJP
 vless://1b8ec962-6e6f-4fc3-a9a4-c8a6fc907796@38.175.203.11:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=oulucloud.706666.xyz#%3E%3E%40configV2rayNG%3A%3AJP
