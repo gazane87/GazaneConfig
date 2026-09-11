@@ -1,0 +1,1 @@
+vless://dfad3362-8534-4495-bf49-89f2ae229e7a@77.223.119.80:8200?security=reality&encryption=none&pbk=1KrzmnGnXweOpiuDle8bRNY6BPXWsD7ufzx1uFurl1c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru01.arpanet-cdn.com#%3E%3E%40prrofile_purple%3A%3ASE
