@@ -1,1 +1,0 @@
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?encryption=none&fp=firefox&security=tls&sni=195-162-69-203.sslip.io&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
