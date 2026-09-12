@@ -1,0 +1,4 @@
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#%3E%3E%40freeland8%3A%3AFI
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=xhttp&sni=download.nvidia.com#%3E%3E%40freeland8%3A%3AFI
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@62.233.39.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=lDi6FDdd5qUFMjjR1JDidfUU2qE_U1L90VjNTzPyQhs&fp=chrome&type=xhttp&sni=download.nvidia.com#%3E%3E%40freeland8%3A%3AFI
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#%3E%3E%40freeland8%3A%3AFI

@@ -1,2 +1,1 @@
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=qq&mode=auto&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%3E%3E%40outlineOpenKey%3A%3APL
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=firefox&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%3E%3E%40outlineOpenKey%3A%3APL
