@@ -1,1 +1,0 @@
-vless://d7282b41-1f2a-47bb-8593-f464fd6b6d78@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=global.fastly.com#%3E%3E%40outline_vpn%3A%3ATR
