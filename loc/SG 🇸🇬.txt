@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#%3E%3E%40free1ss%3A%3ASG
-vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&type=ws&host=u.srilankangrill.online&headerType=none&path=%2F&security=tls&fp=chrome&sni=u.srilankangrill.online#%3E%3E%40outlineOpenKey%3A%3ASG
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443?insecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?insecure=1&sni=whatsapp.com#%3E%3E%40oneclickvpnkeys%3A%3ASG
