@@ -1,6 +1,4 @@
 vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=firefox&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%3E%3E%40outlineOpenKey%3A%3APL
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@2.56.126.50:443?encryption=none&mode=auto&path=%2Fxh&security=tls&sni=po-01.letsgodance.site&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl3.moritech.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.172:443?sni=pl-dedic-3.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3APL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.181:443?sni=pl-dedic-2.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3APL
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#%3E%3E%40outline_vpn%3A%3APL
