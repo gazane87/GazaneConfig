@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@61.231.15.229:50099#%3E%3E%40free1ss%3A%3ATW
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.212.163:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#%3E%3E%40v2ray1_ng%3A%3ATW
