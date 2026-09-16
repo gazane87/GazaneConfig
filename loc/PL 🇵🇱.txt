@@ -1,4 +1,4 @@
 vless://568addfa-796a-40f8-820d-a071ee2ca50a@2.27.244.94:443?fp=firefox&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#%3E%3E%40outlineOpenKey%3A%3APL
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@2.56.126.50:443?encryption=none&mode=auto&path=%2Fxh&security=tls&sni=po-01.letsgodance.site&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl-new-dedic.failspace.top&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?sni=poland-new-dedic-2.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3APL

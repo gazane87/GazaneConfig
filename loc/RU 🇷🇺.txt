@@ -1,2 +1,1 @@
 hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els1.mangshe.xyz:2056/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3ARU
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/?sni=msk.frkn.org#%3E%3E%40oneclickvpnkeys%3A%3ARU
