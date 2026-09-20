@@ -1,2 +1,0 @@
-vless://f7c74a35-1da0-5097-9fa7-a20735610ac1@atomic-prase23893.my-vm.work:8088?encryption=none&host=queuev4.vk.com&path=%2Fapi&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ALV
-vless://tmp_user@atomic-prase23893.my-vm.work:8088?type=ws&headerType=none&security=none&encryption=none&path=%2Fapi&host=queuev4.vk.com#%3E%3E%40outlineOpenKey%3A%3ALV

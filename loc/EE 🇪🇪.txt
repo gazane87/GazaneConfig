@@ -1,1 +1,2 @@
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=est1313.ggisopi.su#%3E%3E%40v2rayng_fast%3A%3AEE
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443?security=tls&insecure=1&sni=cabinet.wwwinternetvideo.click#%3E%3E%40VmessProtocol%3A%3AEE
