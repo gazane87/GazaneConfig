@@ -1,1 +1,1 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.243.203.243:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%2Farchive&security=tls&sni=cdn8848.776676.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAT
+vless://b2593749-691c-428c-9481-14979cba3446@132.243.203.202:8443?encryption=none&fp=chrome&host=xi.tbv.ccwu.cc&path=%2F&security=tls&sni=xi.tbv.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAT
