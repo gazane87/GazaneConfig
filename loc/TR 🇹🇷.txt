@@ -1,2 +1,1 @@
 vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@193.46.56.74:8443?alpn=h3&encryption=none&host=dns.refprov.online&mode=packet-up&path=%2Fh3-updates&security=tls&sni=dns.refprov.online&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ATR
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@146.75.84.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=BechBad.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3ATR
