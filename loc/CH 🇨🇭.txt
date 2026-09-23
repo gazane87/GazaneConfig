@@ -1,3 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#%3E%3E%40v2rayNG_Matsuri%3A%3ACH
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.249.220:443?path=%2F&security=tls&encryption=none&insecure=0&host=sardach3.global.ssl.fastly.net&fp=safari&type=ws&allowInsecure=0&sni=global.fastly.com#%3E%3E%40freeland8%3A%3ACH
 hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.229:8443/?insecure=1&sni=hopp-swizland-new.mysynology.net#%3E%3E%40oneclickvpnkeys%3A%3ACH
