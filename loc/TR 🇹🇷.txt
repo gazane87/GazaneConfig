@@ -1,1 +1,2 @@
+vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@93.190.9.192:3090?security=&encryption=none&type=grpc&serviceName=vless#%3E%3E%40free_nettm%3A%3ATR
 vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR

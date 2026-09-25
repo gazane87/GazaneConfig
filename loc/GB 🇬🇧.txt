@@ -1,5 +1,2 @@
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@143.246.219.51:8081?path=%2Fvless-test&security=none&encryption=none&type=ws#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.126.60:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.126.60:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.126.60:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB
 hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@labs.frkn.org:443/?insecure=1&sni=labs.frkn.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
