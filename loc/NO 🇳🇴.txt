@@ -1,0 +1,2 @@
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-1.failspace.top:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=norw-1.failspace.top&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ANO
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@norw-mori-5.failspace.top:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=norw-mori-5.failspace.top&flow=xtls-rprx-vision#%3E%3E%40outlineOpenKey%3A%3ANO
