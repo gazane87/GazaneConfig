@@ -1,2 +1,4 @@
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40prrofile_purple%3A%3AFR
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
