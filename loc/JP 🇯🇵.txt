@@ -1,1 +1,3 @@
+vless://45d87ca1-d006-44ac-b62a-cb03d04c7130@45.202.255.24:8890?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=DcHXqq0OOR8N-bd92fSrMjy2yrcAsG1Es7PesCOc7gc&type=grpc&authority=&serviceName=grpc&mode=gun#%3E%3E%40outlineOpenKey%3A%3AJP
 hysteria2://my_super_password_123@open.w2m.ink:443?sni=open.w2m.ink&insecure=1#%3E%3E%40outlineOpenKey%3A%3AJP
+hysteria2://my_super_password_123@open.2ml.bid:5443/?insecure=1&sni=open.2ml.bid#%3E%3E%40outlineOpenKey%3A%3AJP
