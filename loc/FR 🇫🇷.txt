@@ -1,10 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40FreakConfig%3A%3AFR
-vless://%58pnTeam-48@199.232.78.159:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFR
-vless://%58pnTeam-49@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFR
-vless://%58pnTeam-48@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFR
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40prrofile_purple%3A%3AFR
+vless://%58pnTeam-50@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFR
+vless://%58pnTeam-51@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40mehrosaboran%3A%3AFR
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://2561c6b1a3069d3170b4d7e1ecc08c65@paris.nerabotaet.com:443/?insecure=1&sni=paris.nerabotaet.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
