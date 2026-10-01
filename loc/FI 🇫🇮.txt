@@ -1,7 +1,6 @@
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@77.42.20.51:1085?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://0c1b7949-fe09-43d9-863f-2c031f66bfc1@204.168.147.195:1085?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fws&host=fl.subnimnet2.ir&mode=auto#%3E%3E%40outlineOpenKey%3A%3AFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.243.18:9872/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&sid=aabb#%3E%3E%40outlineOpenKey%3A%3AFI
+vless://55af8466-53cd-46f4-aef9-5378f5ac34a4@n2.akan1.ir:8443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=home.akan1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=home.akan1.ir#%3E%3E%40prrofile_purple%3A%3AFI
 vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fws&host=fl.subnimnet2.ir&mode=auto#%3E%3E%40outlineOpenKey%3A%3AFI
 vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fws&host=fl.subnimnet2.ir&mode=auto#%3E%3E%40outlineOpenKey%3A%3AFI
+vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40freeland8%3A%3AFI
 vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?encryption=none&fp=&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&security=reality&serviceName=grpce5bb9e71&sid=d0ea1847066af5a6&sni=www.samsung.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
