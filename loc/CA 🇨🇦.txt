@@ -1,1 +1,2 @@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#%3E%3E%40v2ray1_ng%3A%3ACA
+trojan://bpb-trojan@russia.com:443?type=ws&path=%2Ftr&security=tls&sni=6982410.xyz&fp=chrome&alpn=h3#%3E%3E%40outlineOpenKey%3A%3ACA
