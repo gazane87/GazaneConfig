@@ -1,2 +1,1 @@
 vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#%3E%3E%40outline_vpn%3A%3ALV
-vless://454431fc-71e2-42b1-b375-5b55dd06666a@85.159.228.223:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=firefox&type=tcp&sni=example.org#%3E%3E%40freeland8%3A%3ALV

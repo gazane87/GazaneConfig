@@ -1,5 +1,3 @@
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.243.18:9872/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=chrome&security=reality&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&sid=aabb#%3E%3E%40outlineOpenKey%3A%3AFI
-vless://d207c6c8-a278-487c-b06e-f1fc89304e6d@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fws&host=fl.subnimnet2.ir&mode=auto#%3E%3E%40outlineOpenKey%3A%3AFI
-vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@subnimnet1.ir:80?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fws&host=fl.subnimnet2.ir&mode=auto#%3E%3E%40outlineOpenKey%3A%3AFI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg@45.149.114.171:777#%3E%3E%40free1ss%3A%3AFI
 vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?encryption=none&fp=&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&security=reality&serviceName=grpce5bb9e71&sid=d0ea1847066af5a6&sni=www.samsung.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
 hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@144.31.232.216:443/?sni=fi01.clgate.network#%3E%3E%40oneclickvpnkeys%3A%3AFI
