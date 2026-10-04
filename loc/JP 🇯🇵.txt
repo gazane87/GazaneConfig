@@ -1,14 +1,7 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%3E%3E%40free1ss%3A%3AJP
 trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@assuring-skink.rooster465.autos:443?allowInsecure=1&sni=assuring-skink.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=1&sni=comic-poodle.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@brief-glider.rooster465.autos:443?allowInsecure=1&sni=brief-glider.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://UX82473651@concrete-aardvark.rooster465.autos:443?allowInsecure=1&sni=concrete-aardvark.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://UX82473651@dynamic-imp.rooster465.autos:443?allowInsecure=1&sni=dynamic-imp.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?allowInsecure=1&sni=fancy-javelin.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&sni=evolving-platypus.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@integral-rodent.rooster465.autos:443?allowInsecure=1&sni=integral-rodent.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
-trojan://UX82473651@intense-sole.rooster465.autos:443?allowInsecure=1&sni=intense-sole.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://UX82473651@musical-terrier.rooster465.autos:443?allowInsecure=1&sni=musical-terrier.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
 trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP
