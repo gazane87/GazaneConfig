@@ -1,4 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@43.201.103.218:8443#%3E%3E%40free1ss%3A%3AKR
 trojan://UX82473651@balanced-stag.rooster465.autos:443?allowInsecure=1&sni=balanced-stag.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@evolving-ewe.rooster465.autos:443?allowInsecure=1&sni=evolving-ewe.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@kind-stork.rooster465.autos:443?allowInsecure=1&sni=kind-stork.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
