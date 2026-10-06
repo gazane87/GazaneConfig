@@ -1,5 +1,12 @@
+trojan://UX82473651@balanced-stag.rooster465.autos:443?allowInsecure=1&sni=balanced-stag.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=1&sni=engaging-toucan.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@kind-stork.rooster465.autos:443?allowInsecure=1&sni=kind-stork.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@liked-eft.rooster465.autos:443?allowInsecure=1&sni=liked-eft.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@main-fawn.rooster465.autos:443?allowInsecure=1&sni=main-fawn.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@neutral-quail.rooster465.autos:443?allowInsecure=1&sni=neutral-quail.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@noted-cougar.rooster465.autos:443?allowInsecure=1&sni=noted-cougar.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 trojan://UX82473651@optimum-snapper.rooster465.autos:443?allowInsecure=1&sni=optimum-snapper.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
+trojan://UX82473651@pretty-rat.rooster465.autos:443?allowInsecure=1&sni=pretty-rat.rooster465.autos#%3E%3E%40v2nodes%3A%3AKR
 hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-kr-002.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3AKR
 hysteria2://maintell@152.70.237.123:2053?sni=bing.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3AKR
