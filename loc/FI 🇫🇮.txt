@@ -1,2 +1,3 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRkZhRHlXWW02Qy1mazZ3R1E4Mkdn@89.167.109.177:888#%3E%3E%40shadowsockskeys%3A%3AFI
 vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?sni=se-twitch.global-cdn.org&type=grpc&serviceName=content.v1.Feed&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AFI
 vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?encryption=none&fp=&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&security=reality&serviceName=grpce5bb9e71&sid=d0ea1847066af5a6&sni=www.samsung.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
