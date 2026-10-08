@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRkZhRHlXWW02Qy1mazZ3R1E4Mkdn@89.167.109.177:888#%3E%3E%40shadowsockskeys%3A%3AFI
-vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?sni=se-twitch.global-cdn.org&type=grpc&serviceName=content.v1.Feed&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AFI
+vless://71a195c5-df47-47ad-81be-f4d3a3a21be3@199.232.239.239:443?mode=auto&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel&security=tls&alpn=h2&encryption=none&insecure=0&host=cloudnet2026.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AFI
 vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?encryption=none&fp=&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&security=reality&serviceName=grpce5bb9e71&sid=d0ea1847066af5a6&sni=www.samsung.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3AFI
