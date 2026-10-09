@@ -1,4 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#%3E%3E%40free1ss%3A%3ASG
 trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
+trojan://UX82473651@glowing-marmoset.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://UX82473651@real-cardinal.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@72.146.234.10:443?security=tls&encryption=none&insecure=0&host=asia.csmaster.site&fp=chrome&type=ws&allowInsecure=0&sni=asia.csmaster.site#%3E%3E%40configV2rayNG%3A%3ASG
+vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%3E%3E%40v2rayng_fast%3A%3ASG
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160/?insecure=1&sni=138.2.73.238#%3E%3E%40oneclickvpnkeys%3A%3ASG
