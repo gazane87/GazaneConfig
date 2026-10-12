@@ -1,3 +1,7 @@
 trojan://UX82473651@cheerful-swan.rooster465.autos:443?mux=1&allowInsecure=1&sni=cheerful-swan.rooster465.autos#%3E%3E%40outlineOpenKey%3A%3APL
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://fc87e0d6-0f6a-423a-828e-1fed7e7ef29c@u6.luxcloud.space:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u6.luxcloud.space#%3E%3E%40outline_vpn%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.49.47:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?insecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#%3E%3E%40oneclickvpnkeys%3A%3APL
