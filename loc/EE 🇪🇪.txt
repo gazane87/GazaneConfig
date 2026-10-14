@@ -1,0 +1,1 @@
+vless://30292475-4666-4c26-bcb2-338a0919958b@188.225.38.216:443?sni=lalibobi.online&alpn=h2&type=grpc&serviceName=lalibobi.orbit.v3.Connect&fp=edge&security=tls#%3E%3E%40v2nodes%3A%3AEE
