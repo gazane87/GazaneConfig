@@ -1,3 +1,4 @@
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?encryption=none&host=45.144.234.157&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?allowInsecure=1&encryption=none&path=%2Fmerky-connect%2Fde6%2F&security=tls&sni=sub.merky.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://6e05822a-e9da-4135-a9db-71aa07a944af@sub.merky.top:443?encryption=none&host=sub.merky.top&path=%2Fmerky-connect%2Fde6%2F&security=tls&sni=sub.merky.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@94.143.231.146:443?allowInsecure=1&encryption=none&path=%2Fmerky-connect%2Fde6%2F&security=tls&sni=sub.merky.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@31.76.240.15:443?alpn=h2%2Ch3&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=fi.quic.best&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@fi.quic.best:443?alpn=h2%2Ch3&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=fi.quic.best&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
