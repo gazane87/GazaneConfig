@@ -1,6 +1,13 @@
+trojan://UX82473651@18.141.136.8:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-mouse.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
+trojan://UX82473651@3.1.252.137:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=brave-tomcat.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
+trojan://UX82473651@musical-mouse.rooster465.autos:443?allowInsecure=1&sni=musical-mouse.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://UX82473651@47.131.250.125:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=simple-molly.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?allowInsecure=1&sni=brave-tomcat.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://UX82473651@54.151.181.75:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moral-basilisk.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
 trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#%3E%3E%40configV2rayNG%3A%3ASG
-trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=1&sni=moral-basilisk.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+vless://20ff936a-8eb5-4d27-9cce-93f2016d467b@188.114.98.0:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.nadun.store&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=free.nadun.store#%3E%3E%40prrofile_purple%3A%3ASG
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?security=reality&encryption=none&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&sid=6ba85179e30d4fc2#%3E%3E%40configV2rayNG%3A%3ASG
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%3E%3E%40configV2rayNG%3A%3ASG
 vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?path=%2Ffree-server.techsonic.dev&security=tls&encryption=none&insecure=0&host=free-server.techsonic.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-server.techsonic.dev#%3E%3E%40configV2rayNG%3A%3ASG
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160/?insecure=1&sni=138.2.73.238#%3E%3E%40oneclickvpnkeys%3A%3ASG
