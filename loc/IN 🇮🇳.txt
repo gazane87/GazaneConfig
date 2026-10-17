@@ -1,2 +1,1 @@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%3E%3E%40shadowsockskeys%3A%3AIN
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.162.84.224:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443fp%3Dchrome&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%3E%3E%40configV2rayNG%3A%3AIN
