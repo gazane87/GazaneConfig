@@ -1,0 +1,1 @@
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@85.193.85.231:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#%3E%3E%40configV2rayNG%3A%3ARU
