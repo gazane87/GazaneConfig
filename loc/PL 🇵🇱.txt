@@ -1,1 +1,2 @@
+vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#%3E%3E%40v2nodes%3A%3APL
 vless://51a1fd52-fd88-4905-a976-35e44be28e4b@2.26.225.89:8443?encryption=none&security=tls&sni=pl.flen-vpn.xyz&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
