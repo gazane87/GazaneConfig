@@ -1,0 +1,1 @@
+vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@fitindoor.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ARU
