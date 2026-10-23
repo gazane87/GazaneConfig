@@ -1,2 +1,1 @@
 vless://897d47f8-4dd5-42a1-bcd0-bef19caff55a@193.238.154.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4eE3K8Eac-ELze-LwRyJolqmhPqgCVqwQM1DKu6i0Ts&security=reality&sid=e93d46ee3735069e&sni=gateway.icloud.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AES
-vless://d342d11e-d224-4463-b982-532309285094@31.57.190.89:443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AES
