@@ -1,2 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AGB
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AGB

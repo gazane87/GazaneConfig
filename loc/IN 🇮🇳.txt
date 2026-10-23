@@ -1,3 +1,2 @@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%3E%3E%40configV2rayNG%3A%3AIN
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&security=reality&sni=in1.vkusnews.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIN
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?encryption=none&host=13.140.56.100&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AIN
