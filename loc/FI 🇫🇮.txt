@@ -1,4 +1,2 @@
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?encryption=none&host=45.144.234.157&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@31.77.17.148:8443?encryption=none&fp=firefox&path=%2Fassets&security=tls&sni=finp2g.yandex-api.store&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?alpn=http%2F1.1&encryption=none&host=hw3.divarkhaghazi.com.&path=%2F&security=tls&sni=hw3.divarkhaghazi.com.&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@144.31.230.51:2053/?sni=sweden.luxes.network#%3E%3E%40oneclickvpnkeys%3A%3AFI
