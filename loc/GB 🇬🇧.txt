@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ek84TjhYSG02RVRyTHR2YXNZSThR@51.195.233.74:2083#%3E%3E%40shadowsockskeys%3A%3AGB
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
