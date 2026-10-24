@@ -1,4 +1,9 @@
 trojan://humanity@45.87.41.18:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://a365fd78-80d4-4a2e-83e2-66019eab0eed@178.105.133.160:4443?encryption=none&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.185.27:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22222?encryption=none&security=none&type=tcp#%3E%3E%40PrivateVPNs%3A%3AFR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22223?encryption=none&security=none&type=tcp#%3E%3E%40DirectVPN%3A%3AFR
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.222.143:22224?encryption=none&security=none&type=tcp#%3E%3E%40VlessConfig%3A%3AFR
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
