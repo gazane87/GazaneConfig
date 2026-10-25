@@ -1,6 +1,4 @@
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.43.227:18443#%3E%3E%40v2nodes%3A%3ARU
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.119:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
+ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.133.23.50:18443#%3E%3E%40free1ss%3A%3ARU
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.128.78.176:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.147:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%252F&security=tls&sni=wsru1.wba-pn.ru#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.140.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ARU

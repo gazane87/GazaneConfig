@@ -1,2 +1,2 @@
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3APL
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@pl4-node.rumedia-cdn.com:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stb6390.rumedia-cdn.com&type=ws&allowInsecure=0&sni=stb6390.rumedia-cdn.com#%3E%3E%40v2ray1_ng%3A%3APL
+vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
