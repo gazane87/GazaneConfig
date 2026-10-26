@@ -1,2 +1,6 @@
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3APL
+vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:443?path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr2.soft10.ir#%3E%3E%40configV2rayNG%3A%3APL
 vless://44dfa3a7-f648-4587-819b-e653c0823f28@5.22.221.127:443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
+vless://480b4042-f713-43d7-b24b-b4064c97f841@tr2.soft10.ir:2053?path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tr2.soft10.ir#%3E%3E%40configV2rayNG%3A%3APL
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=2.26.6.1#%3E%3E%40configV2rayNG%3A%3APL
+vless://f259a2e5-fd8d-4db9-a3ac-6b26322cffa9@31.59.143.242:34451?encryption=none&fp=firefox&host=pl-cfe6b10b7f.shamanapp.online&mode=auto&path=%2FShamanXHTTP2026&security=tls&sni=pl-cfe6b10b7f.shamanapp.online&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL

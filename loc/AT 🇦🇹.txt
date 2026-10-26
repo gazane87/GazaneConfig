@@ -1,1 +1,1 @@
-hysteria2://krdyzYNnXFQqyPtjiXw9lQ@68.210.96.82:8443?sni=www.bing.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3AAT
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?path=%2FAU6W&security=tls&encryption=none&insecure=0&host=au6.pad-sservice.lat&type=ws&allowInsecure=0&sni=au6.pad-sservice.lat#%3E%3E%40configV2rayNG%3A%3AAT

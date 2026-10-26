@@ -1,0 +1,2 @@
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.164:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR
+vless://fb39cc1d-566d-57ec-864a-eadaa0d59edb@5.188.190.158:23958?encryption=none&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ATR

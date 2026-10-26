@@ -1,6 +1,6 @@
 trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2#%3E%3E%40outlineOpenKey%3A%3AFI
-trojan://gHQP0D7D15@104.25.239.113:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F#%3E%3E%40outlineOpenKey%3A%3AFI
+trojan://gHQP0D7D15@104.25.239.113:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#%3E%3E%40configV2rayNG%3A%3AFI
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?encryption=none&host=45.144.234.157&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com.:465?encryption=none&host=hw3.divarkhaghazi.com.&path=%2F&security=tls&sni=hw3.divarkhaghazi.com.&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?alpn=http%2F1.1&encryption=none&host=hw3.divarkhaghazi.com.&path=%2F&security=tls&sni=hw3.divarkhaghazi.com.&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@se13-node.rumedia-cdn.com:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=st5ff8a.rumedia-cdn.com&type=ws&allowInsecure=0&sni=st5ff8a.rumedia-cdn.com#%3E%3E%40v2ray1_ng%3A%3AFI
+vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?type=grpc&security=tls&serviceName=kobedin-server1-vless&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2&encryption=none#%3E%3E%40outlineOpenKey%3A%3AFI
