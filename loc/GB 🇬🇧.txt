@@ -1,2 +1,0 @@
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.231.124:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.2.245:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
