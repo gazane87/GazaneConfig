@@ -1,1 +1,2 @@
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443/?type=tcp&encryption=none&flow=&security=tls&sni=swz.proxyplankton.ru&fp=firefox#%3E%3E%40oneclickvpnkeys%3A%3ACH
 hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=140.238.213.114#%3E%3E%40oneclickvpnkeys%3A%3ACH
