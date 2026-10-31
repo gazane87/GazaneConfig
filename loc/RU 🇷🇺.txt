@@ -1,4 +1,4 @@
 ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@185.22.155.121:18443#%3E%3E%40free1ss%3A%3ARU
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vlgrpc&allowInsecure=0&sni=kk-ru24a1.testkknegr.online#%3E%3E%40v2ray1_ng%3A%3ARU
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?&security=tls&flow=xtls-rprx-vision&sni=user-6a8d949a.noooo.win&type=tcp&headerType=none&path=%2F#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&fp=ios&host=194.87.143.165&path=%2F&security=tls&sni=wsru1.wba-pn.ru&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&insecure=1#%3E%3E%40outlineOpenKey%3A%3ARU
