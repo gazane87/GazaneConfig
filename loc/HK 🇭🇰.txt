@@ -1,0 +1,1 @@
+trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&sni=hik160.pacemakere.com#%3E%3E%40v2nodes%3A%3AHK
