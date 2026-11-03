@@ -1,1 +1,2 @@
-hysteria2://maintell@152.70.237.123:2053?sni=bing.com&insecure=1#%3E%3E%40outlineOpenKey%3A%3AKR
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AKR
+hysteria2://maintell@152.70.237.123:2053/?insecure=1&sni=bing.com#%3E%3E%40oneclickvpnkeys%3A%3AKR

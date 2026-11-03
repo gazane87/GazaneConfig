@@ -1,1 +1,4 @@
 vless://d342d11e-d224-4463-b982-532309285094@159.65.51.189:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%3E%3E%40configV2rayNG%3A%3AGB
+vless://ed79c2d4-5558-428f-87f5-af4abc97a16d@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#%3E%3E%40configV2rayNG%3A%3AGB
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@51.38.71.147:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#%3E%3E%40configV2rayNG%3A%3AGB
+vless://fda89998-7e9a-4494-857a-cd0d00661b58@uk1.connectsuite.org:443?path=%2Fcdn-cgi%2Fws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk1.connectsuite.org#%3E%3E%40configV2rayNG%3A%3AGB

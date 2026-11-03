@@ -1,3 +1,4 @@
 trojan://gHQP0D7D15@104.25.239.113:2053?path=%2F&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#%3E%3E%40configV2rayNG%3A%3AFI
 trojan://gHQP0D7D15@172.67.118.45:2053?type=ws&sni=marvdasht.phonecomparisonblog.org&allowInsecure=1&path=%2F&host=marvdasht.phonecomparisonblog.org#%3E%3E%40outlineOpenKey%3A%3AFI
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision-udp443&sni=google.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443/?sni=forshynewh.duckdns.org#%3E%3E%40oneclickvpnkeys%3A%3AFI
