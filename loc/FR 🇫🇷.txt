@@ -1,5 +1,4 @@
 trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?encryption=none&security=tls&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
