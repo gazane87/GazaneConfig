@@ -1,2 +1,2 @@
-hysteria2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443/?insecure=0#%3E%3E%40outlineOpenKey%3A%3AJP
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.254.187:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AJP
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#%3E%3E%40oneclickvpnkeys%3A%3AJP
