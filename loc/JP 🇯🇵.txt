@@ -1,2 +1,2 @@
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.254.187:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%3E%3E%40FreakConfig%3A%3AJP
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2503.ccgfw.online:443?sni=u695098u093da7d1s2502.xxti.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%3E%3E%40v2nodes%3A%3AJP
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#%3E%3E%40oneclickvpnkeys%3A%3AJP
