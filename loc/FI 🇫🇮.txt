@@ -1,7 +1,6 @@
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@31.76.103.92:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=fi.peregrine-sub.net&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw#%3E%3E%40v2rayng_fast%3A%3AFI
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@fi.peregrine-sub.net:443?security=reality&encryption=none&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=fi.peregrine-sub.net#%3E%3E%40configV2rayNG%3A%3AFI
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@31.77.18.220:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision-udp443&sni=google.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFI
-vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%3E%3E%40configV2rayNG%3A%3AFI
-vless://5f07a2a1-82a5-494d-847b-b882e6903192@65.109.208.183:443?encryption=none&fp=firefox&security=tls&sni=free.for.member.iiproxy.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://5f07a2a1-82a5-494d-847b-b882e6903192@free.for.member.iiproxy.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=free.for.member.iiproxy.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://5f07a2a1-82a5-494d-847b-b882e6903192@65.109.208.183:443?encryption=none&fp=firefox&security=tls&sni=free.for.member.iiproxy.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%3E%3E%40configV2rayNG%3A%3AFI
 hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.75.56:443/?sni=fi1.obxodvpn.us#%3E%3E%40oneclickvpnkeys%3A%3AFI
