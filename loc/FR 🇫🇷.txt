@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.109.228.110:19999#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3AFR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#%3E%3E%40FreakConfig%3A%3AFR
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@84.46.251.105:443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3AFR

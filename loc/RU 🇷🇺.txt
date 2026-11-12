@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE%3D@46.17.47.58:18443#%3E%3E%40v2rayngvpn%3A%3ARU
-vless://95f85937-7b95-45c4-8d69-95da6a978569@vps2.nemnogogo.com:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=vps2.nemnogogo.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ARU
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ARU
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124#%3E%3E%40outlineOpenKey%3A%3ARU
