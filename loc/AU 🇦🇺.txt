@@ -1,1 +1,1 @@
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AAU
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%3E%3E%40configV2rayNG%3A%3AAU
