@@ -1,1 +1,0 @@
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124#%3E%3E%40outlineOpenKey%3A%3ARU
