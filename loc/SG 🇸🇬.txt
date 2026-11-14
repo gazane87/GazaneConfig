@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@15.235.164.133:19999#%3E%3E%40v2rayngvpn%3A%3ASG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999#%3E%3E%40flyv2ray%3A%3ASG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#%3E%3E%40v2rayngvpn%3A%3ASG
+vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@143.42.66.91:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%3E%3E%40v2ray1_ng%3A%3ASG
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@161.118.200.170:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%3E%3E%40configV2rayNG%3A%3ASG
+vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
+vless://c6624b96-e346-490b-9145-74c2543a9483@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160/?insecure=1&sni=138.2.73.238#%3E%3E%40oneclickvpnkeys%3A%3ASG
