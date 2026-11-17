@@ -1,2 +1,1 @@
-hysteria2://3OAaD9HeUplLnOOA0StMZG@43.239.249.178:443?sni=www.bing.com&insecure=1&fastopen=1#%3E%3E%40outlineOpenKey%3A%3AJP
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=bing.com#%3E%3E%40oneclickvpnkeys%3A%3AJP
