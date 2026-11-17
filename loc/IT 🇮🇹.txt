@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%3E%3E%40outline_vpn%3A%3AIT
 vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?encryption=none&fp=chrome&host=d3bufpfi7s84bl.cloudfront.net&mode=auto&path=%2Fcf&security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AIT

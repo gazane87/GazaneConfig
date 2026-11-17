@@ -1,9 +1,6 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#%3E%3E%40free1ss%3A%3ASG
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#%3E%3E%40v2rayNG_Matsuri%3A%3ASG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#%3E%3E%40free1ss%3A%3ASG
-vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
-vless://fdd8f4d0-4500-11ef-8227-1577c1651679@104.17.3.81:80?encryption=none&type=ws&path=%2Fworryfree&host=sg-vless-ws.bypass.id&sni=sg-vless-ws.bypass.id&allowInsecure=1#%3E%3E%40outlineOpenKey%3A%3ASG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#%3E%3E%40v2rayNG_Matsuri%3A%3ASG
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3ASG
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160/?insecure=1&sni=138.2.73.238#%3E%3E%40oneclickvpnkeys%3A%3ASG
