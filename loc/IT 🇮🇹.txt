@@ -1,1 +1,0 @@
-vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?encryption=none&fp=chrome&host=d3bufpfi7s84bl.cloudfront.net&mode=auto&path=%2Fcf&security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AIT
