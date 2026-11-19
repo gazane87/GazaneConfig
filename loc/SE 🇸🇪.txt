@@ -1,1 +1,2 @@
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#%3E%3E%40configV2rayNG%3A%3ASE
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE

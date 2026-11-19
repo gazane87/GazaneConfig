@@ -1,4 +1,5 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@51.79.228.131:19999#%3E%3E%40free1ss%3A%3ASG
+vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
+vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%3E%3E%40configV2rayNG%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.99:443?insecure=1&sni=127.0.0.1#%3E%3E%40outlineOpenKey%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3ASG
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.78.215:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40outlineOpenKey%3A%3ASG
