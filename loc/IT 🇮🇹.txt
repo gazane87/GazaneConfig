@@ -1,1 +1,0 @@
-trojan://31703819-c5eb-44fe-98d5-07799c80bd70@it01.node.qixi.best:443?type=ws&path=%2Fdownload&host=it01.node.qixi.best&security=tls&sni=it01.node.qixi.best&fp=firefox#%3E%3E%40outlineOpenKey%3A%3AIT
