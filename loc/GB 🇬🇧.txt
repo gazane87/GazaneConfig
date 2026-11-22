@@ -1,2 +1,4 @@
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.41.222:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.140:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.27.89:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.110.142:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.46.76:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
