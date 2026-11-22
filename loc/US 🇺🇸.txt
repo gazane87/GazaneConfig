@@ -1,10 +1,10 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cXJ5bDZ4VkxrV1habHFEN0NjY3BRdz09@103.238.140.162:10002#%3E%3E%40configV2rayNG%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVVhzeTc4ZFNzNlJPa2FzaWttb2FM@104.238.140.45:11051#%3E%3E%40configV2rayNG%3A%3AUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzc2WFFMVzk0SnVnN1ow@204.194.49.67:8443#%3E%3E%40shadowsockskeys%3A%3AUS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?allowInsecure=1&fp=chrome&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchnationwidecareerchangehelperandguidancetoday.com#%3E%3E%40configV2rayNG%3A%3AUS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%3E%3E%40configV2rayNG%3A%3AUS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%3E%3E%40configV2rayNG%3A%3AUS
+ss://YWVzLTI1Ni1nY206QU1vazQwRmZhTStJa3dyZTE2cHNCcFZrNkpIeHNRWnc@209.248.57.105:8388#%3E%3E%40configV2rayNG%3A%3AUS
+vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@38.107.232.36:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40EliV2ray%3A%3AUS
+vless://59548d2d-5d7c-4328-aa81-0d5614da0c1b@198.247.127.131:443?&security=reality&flow=xtls-rprx-vision&pbk=vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#%3E%3E%40v2nodes%3A%3AUS
 vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@154.12.49.239:80?security=none&type=ws&path=%2Fplatform103#%3E%3E%40outlineOpenKey%3A%3AUS
 hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443/?insecure=1&sni=hysteria2.local#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://AIcYjw5Oc9Rrrr9SGDUBbBIC@38.76.150.108:36712?insecure=1#%3E%3E%40outlineOpenKey%3A%3AUS
-hysteria2://713142c9-ad09-4894-b35c-645423f3f6c9@media.embrofree.org:443/?sni=media.embrofree.org#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hysteria2://YourStrongPasswordHere123%21@100.62.81.246:443?insecure=1&sni=www.bing.com#%3E%3E%40outlineOpenKey%3A%3AUS
