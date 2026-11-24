@@ -1,8 +1,4 @@
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&host=wholebeam.com&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=wholebeam.com&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&security=tls&serviceName=mobile.api.Event&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#%3E%3E%40outlineOpenKey%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%3E%3E%40configV2rayNG%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@leviko-ru4448.shopingggg.ir:443?security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%3E%3E%40configV2rayNG%3A%3ARU
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&fp=firefox&host=xsru2.freeddns.org&path=wsru&security=tls&sni=xsru2.freeddns.org&type=ws#%3E%3E%40outlineOpenKey%3A%3ARU
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#%3E%3E%40outline_vpn%3A%3ARU
 hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&insecure=1#%3E%3E%40outlineOpenKey%3A%3ARU
+hy2://41edb44c8e@103.88.243.142:11592/?insecure=1&sni=srv-17e124.21freedom.net#%3E%3E%40outlineOpenKey%3A%3ARU

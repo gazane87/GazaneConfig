@@ -1,2 +1,1 @@
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.59.48:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.58.181:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@209.97.130.43:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
