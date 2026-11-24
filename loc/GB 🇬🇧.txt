@@ -1,12 +1,2 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@38.114.120.221:19999#%3E%3E%40v2rayngvpn%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@134.209.27.89:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@159.65.23.143:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@165.232.46.76:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@167.99.203.0:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.110.142:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.0.105:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.5.217:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.56.175:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.59.48:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
-vless://40992c2a-513e-4837-9594-23411fd42afd@64.227.41.219:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@46.101.59.48:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.58.181:443?encryption=none&headerType=http&host=fast.com&path=%2F&security=none&type=tcp#%3E%3E%40outlineOpenKey%3A%3AGB
