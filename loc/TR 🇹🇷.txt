@@ -1,3 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMTk5TUNub2daQktpMFFKZGNTZ1Vub0wzVTl3bDd0MQ@tr.subscriptionservice.ir:2089#%3E%3E%40v2ray1_ng%3A%3ATR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnRS14S3lKQmplbGdIejItdmpleHNoT2hUdXhHLTBoNw@tr.subscriptionservice.ir:2089#%3E%3E%40v2ray1_ng%3A%3ATR
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=turkey-ip1.mmdaqaorg.xyz#%3E%3E%40FreakConfig%3A%3ATR

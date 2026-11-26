@@ -1,8 +1,1 @@
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?security=none#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@72.56.69.70:443?path=%2Fapi%2Fv2%2Fstream&security=tls&encryption=none&extra=%7B%22noSSEHeader%22%3Afalse%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=plaksa.bootless.ru#%3E%3E%40configV2rayNG%3A%3APL
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1084.shopingggg.ir:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&type=xhttp&security=tls&sni=bl1.nexfile.net&fp=chrome&path=/api/v1/sync/&mode=auto#%3E%3E%40ShadowsocksM%3A%3APL
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl9958.shopingggg.ir:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3APL
 vless://ecc0e60a-f2cc-4266-8353-b228df89730a@150.241.87.52:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&security=reality&sni=pl.galacticworld.online&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3APL
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444/?sni=bl1.nexfile.net#%3E%3E%40oneclickvpnkeys%3A%3APL

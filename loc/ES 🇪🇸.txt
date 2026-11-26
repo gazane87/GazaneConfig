@@ -1,1 +1,0 @@
-vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?alpn=h2&encryption=none&fp=chrome&mode=stream-one&path=%2Fes%2F%3F%40MARAMBASHI%E2%80%94MARAMBASHI%E2%80%94MARAMBASHI%E2%80%94MARAMBASHI%3Fed&security=tls&sni=7d1a74fd.ferrin.uk&type=xhttp#%3E%3E%40oneclickvpnkeys%3A%3AES
