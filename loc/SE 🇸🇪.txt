@@ -1,0 +1,1 @@
+vless://9f749472-c636-4c5a-af51-7f8feefaac81@ws.dhafhdtjdti.site:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ws.dhafhdtjdti.site#%3E%3E%40v2ray1_ng%3A%3ASE
