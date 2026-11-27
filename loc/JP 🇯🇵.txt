@@ -1,2 +1,5 @@
+vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=djj.zjlo.top#%3E%3E%40configV2rayNG%3A%3AJP
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%3E%3E%40configV2rayNG%3A%3AJP
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.19.28.32:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%3E%3E%40configV2rayNG%3A%3AJP
 hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443/?insecure=1&sni=8.211.175.236#%3E%3E%40oneclickvpnkeys%3A%3AJP
 hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&sni=bing.com#%3E%3E%40oneclickvpnkeys%3A%3AJP

@@ -1,1 +1,0 @@
-vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?security=reality&encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&fp=random&type=grpc&serviceName=grpc&sni=g.play2go.gay#%3E%3E%40configV2rayNG%3A%3ACH
