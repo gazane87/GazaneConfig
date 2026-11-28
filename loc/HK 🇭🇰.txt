@@ -1,6 +1,5 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ajREZGRmVmgzek9OMXMzV2ZibWRuMldXaExDV0FhT0p5S3FkZUt2eGg0QT0@27.124.5.86:8388#%3E%3E%40outlineOpenKey%3A%3AHK
 vless://11a2709f-a1aa-4b97-9212-4d5cb0c83e53@38.207.178.28:20086?security=reality&encryption=none&pbk=fSVnXtIce23KOtqQjDuwRkNCM3mvWlva7bPNMfODv04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.paypal.com#%3E%3E%40configV2rayNG%3A%3AHK
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AHK
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443/?insecure=1&sni=vpn-hk-004.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3AHK
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#%3E%3E%40oneclickvpnkeys%3A%3AHK
 hysteria2://ePPsH1bMFD@23.141.172.229:50541?alpn=h3%2Ch2%2Chttp%2F1.1&insecure=1&sni=is1-ssl.mzstatic.com#%3E%3E%40outlineOpenKey%3A%3AHK

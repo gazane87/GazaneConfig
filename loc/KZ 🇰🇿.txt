@@ -1,2 +1,0 @@
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=%2Fvless%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%3E%3E%40configV2rayNG%3A%3AKZ
-vless://2424febb-43cb-488d-bdd1-401e923c8e48@38.107.234.57:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=3h-kazakhstan1.09vpn.com#%3E%3E%40configV2rayNG%3A%3AKZ

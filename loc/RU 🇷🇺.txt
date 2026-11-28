@@ -1,8 +1,4 @@
-vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%3E%3E%40configV2rayNG%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?encryption=none&security=tls&serviceName=mobile.api.Event&type=grpc#%3E%3E%40oneclickvpnkeys%3A%3ARU
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#%3E%3E%40outlineOpenKey%3A%3ARU
+vless://026ecbd6-2838-40f6-b530-d2c303c4f629@194.26.229.207:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
 vless://f2d2907c-1d74-43eb-8fd2-fc55dfd92427@194.26.229.207:2200?encryption=none&path=%2Fv1&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ARU
-hy2://41edb44c8e@103.88.243.142:11592/?insecure=1&sni=srv-17e124.21freedom.net#%3E%3E%40outlineOpenKey%3A%3ARU
 hysteria2://41edb44c8e@103.88.243.142:11592?sni=103.88.243.142&insecure=1#%3E%3E%40outlineOpenKey%3A%3ARU
